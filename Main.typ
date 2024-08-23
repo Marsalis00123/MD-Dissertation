@@ -1,10 +1,21 @@
 
 #set text(lang: "ro")
-#set text(font: "New York Regular", size: 12pt)
+#set text(font: "New York Small", size: 12pt)
 #set page(paper: "a4")
-#set par(leading: 1.4em)
-#set heading( numbering: "1.1.", supplement: [Capitolul])
+#set par(leading: 1.5em)
+#set heading( numbering: "1.1.1.", supplement: [capitolul])
 
+// Tables & figures
+#show figure.where(kind: "table"): set figure.caption(position: top)
+#show figure.where(kind: "table"): set text(size: 12pt)
+//show figure.where(kind: table): set figure(placement: top)
+#show figure.caption.where(kind: "table"): smallcaps
+#show figure.where(kind: "table"): set figure(supplement: [Tabelul],numbering: "I")
+
+#show figure.where(kind: "AA"): set figure(supplement: [Figura], numbering: "1")
+//show figure.where(kind: image): set figure(placement: top)
+#show figure.where(kind: "raw"): set figure(supplement: [Figura], numbering: "1")
+#show figure.caption: set text(size: 11pt)
 
 // heading custom name before number
 // 
@@ -13,13 +24,20 @@
   //bibliography: bibliography("My_Library.bib", style: "vancouver"),
 //)
 #pagebreak()
-= Introducere
+= Introducere <cp-intro>
+
+#figure(
+  image("Files/biop-48.png"),
+  caption: [Biopsie ghidată angiografic la un pacient de 48 de ani, prezentat cu dorsalgii lombare intense, febră și frisoane, efectuată la nivelul vertebrei L4 (vedere axială în stânga—reconstrucție sagitală în dreapta) confirmă diagnosticul de spondilodiscită. Acul de biopsie (8 gauge) este poziționat în corpul vertebral L4, evidențiindu-se eroziunea plăcii terminale superioare (săgeți) adiacentă discului.],
+  kind: "AA"
+) <biop-48>
 
 = Epidemiologie
 
 #pagebreak()
 = Tehnici de imagistică pentru diagnostic
 == Radiologia convențională
+
 Radiografia convențională are o sensibilitate și o specificitate redusă (82% și 57%, respectiv) pentru diagnosticul spondilodiscitei (SD) dar, este adesea prima metodă utilizată pentru evaluarea durerilor de spate. Radiografia convențională poate identifica modificările osoase care apar în timp după infecție, cum ar fi :
 
 Manifestări precoce:
@@ -50,7 +68,9 @@ Tomografia computerizată (CT) reprezintă o modalitate imagistică alternativă
 - vizualizarea modificărilor patologice ale țesuturilor paravertebrale
 - îngroșarea țesutului adipos adiacent
 
-Mai mult, CT-ul cu substanță de contrast îmbunătățește semnificativ acuratețea diagnosticului abceselor și optimizează ghidajul procedurilor intervenționale, cum ar fi biopsia cu ac fin sau drenajul abceselor. În pofida acestor avantaje, rolul primordial al CT-ului în patologia spinală rămâne preponderent în sfera planificării preoperatorii a intervențiilor chirurgicale, unde oferă informații anatomice, esențiale pentru o abordare chirurgicală optimă @DiagnosticInterventionalManagement2020 .
+Mai mult, CT-ul cu substanță de contrast îmbunătățește semnificativ acuratețea diagnosticului abceselor și optimizează ghidajul procedurilor intervenționale, cum ar fi biopsia <biop-48> cu ac fin sau drenajul abceselor. În pofida acestor avantaje, rolul primordial al CT-ului în patologia spinală rămâne preponderent în sfera planificării preoperatorii a intervențiilor chirurgicale, unde oferă informații anatomice, esențiale pentru o abordare chirurgicală optimă @DiagnosticInterventionalManagement2020 .
+
+
 
 Pentru evaluarea spondilodiscitei, tomografia computerizată (CT) prezintă o sensibilitate și specificitate variabilă, în funcție de tipul de infecție și de stadiul bolii. Conform unui studiu, sensibilitatea generală a CT-ului pentru detectarea infecțiilor spinale, inclusiv abcesul epidural spinal (SEA), osteomielita vertebrală și alte infecții paravertebrale, a fost de 79% @ImagingCharacteristicsCT2022. Totuși, sensibilitatea pentru detectarea SEA a fost mult mai scăzută, de doar 18%, ceea ce subliniază limitările CT-ului în identificarea acestui tip de infecție @ImagingCharacteristicsCT2022 . În contrast, alte studii au raportat sensibilități de până la 90% pentru diferite patologii infecțioase ale coloanei vertebrale, subliniind variabilitatea în funcție de tehnică și de expertiza radiologului @ImagingAssessmentSpine2024 .
 
@@ -58,9 +78,11 @@ Pentru evaluarea spondilodiscitei, tomografia computerizată (CT) prezintă o se
 
 Sensibilitate și specificitate: CT-ul poate detecta modificări osoase și ale țesuturilor moi mai devreme decât radiografiile, dar are o sensibilitate și specificitate mai scăzute pentru detectarea abceselor epidurale comparativ cu alte tipuri de infecții. Aceasta poate varia considerabil în funcție de specificul patologiei evaluate și de interpretarea radiologică @ImagingCharacteristicsCT2022 @ImagingAssessmentSpine2024 .
 
-Acuratețea diagnostică: CT-ul este util în diagnosticarea precoce a modificărilor structurale ale oaselor și a formării abceselor. În ciuda sensibilității sale limitate în detectarea unor afecțiuni precum SEA, este valoroasă pentru vizualizarea detaliată a leziunilor și a extinderii acestora, contribuind astfel la o evaluare comprehensivă a pacienților cu suspiciune de infecție spinală@ImagingCharacteristicsCT2022 @ImagingAssessmentSpine2024 .
+Acuratețea diagnostică: CT-ul este util în diagnosticarea precoce a modificărilor structurale ale oaselor și a formării abceselor. În ciuda sensibilității sale limitate în detectarea unor afecțiuni precum SEA, este valoroasă pentru vizualizarea detaliată a leziunilor și a extinderii acestora, contribuind astfel la o evaluare comprehensivă a pacienților cu suspiciune de infecție spinală@ImagingCharacteristicsCT2022 @ImagingAssessmentSpine2024.
 
-Disponibilitate și cost: CT-ul este o metodă de imagistică disponibilă pe scară largă și este mai accesibilă decât imagistica prin rezonanță magnetică (IRM), atât în termeni de costuri cât și de disponibilitate în unitățile medicale. Aceasta face ca CT-ul să fie adesea preferat ca primă linie de evaluare în situațiile de urgență sau în cazurile în care IRM-ul nu este disponibil @ImagingCharacteristicsCT2022 . De asemenea, poate fi utilizat pentru ghidarea biopsiilor în scop diagnostic, oferind astfel o metodă non-invazivă de obținere a materialului pentru analize microbiologice @ImagingCharacteristicsCT2022 @ImagingAssessmentSpine2024 .
+
+
+Disponibilitate și cost: CT-ul este o metodă de imagistică disponibilă pe scară largă și este mai accesibilă decât imagistica prin rezonanță magnetică (IRM), atât în termeni de costuri cât și de disponibilitate în unitățile medicale. Aceasta face ca CT-ul să fie adesea preferat ca primă linie de evaluare în situațiile de urgență sau în cazurile în care IRM-ul nu este disponibil @ImagingCharacteristicsCT2022 . De asemenea, poate fi utilizat pentru ghidarea biopsiilor în scop diagnostic, oferind astfel o metodă non-invazivă de obținere a materialului pentru analize microbiologice @ImagingCharacteristicsCT2022 @ImagingAssessmentSpine2024.
 
 În concluzie, deși CT-ul are anumite limitări în ceea ce privește detectarea unor infecții specifice, rămâne o opțiune valoroasă datorită disponibilității sale și a capacității de a oferi informații detaliate despre structurile osoase și țesuturile adiacente.
 
