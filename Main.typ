@@ -40,6 +40,7 @@
 
 Radiografia convențională are o sensibilitate și o specificitate redusă (82% și 57%, respectiv) pentru diagnosticul spondilodiscitei (SD) dar, este adesea prima metodă utilizată pentru evaluarea durerilor de spate. Radiografia convențională poate identifica modificările osoase care apar în timp după infecție, cum ar fi :
 
+
 Manifestări precoce:
 
 - eroziunea subcondrală, care este considerată primul semn identificabil prin această metodă.
