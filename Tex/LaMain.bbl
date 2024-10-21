@@ -1,0 +1,1708 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{RoleNuclearMedicine2012}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b0893bf0e91d92b722e64a110a2e8efc}{%
+           family={Treglia},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d12e3f8422f546551e288caaef797aee}{%
+           family={Focacci},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3c537f8a80fa07503321a935f091bdc8}{%
+           family={Caldarella},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=40a5d64815c254714935b8913af47166}{%
+           family={Mattoli},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ec163659308a676a2817051b5cae5527}{%
+           family={Salsano},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c81b8b505f2d75fad2a44fb16d39dbc3}{%
+           family={Taralli},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7b5a1b4e03bd3a0d5c83bc530f5c5c12}{%
+           family={Giordano},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ee0dc4a2bc00772253de16803c95027}
+      \strng{fullhash}{f2f7874d0b3fa01623a5107985715f39}
+      \strng{bibnamehash}{f2f7874d0b3fa01623a5107985715f39}
+      \strng{authorbibnamehash}{f2f7874d0b3fa01623a5107985715f39}
+      \strng{authornamehash}{1ee0dc4a2bc00772253de16803c95027}
+      \strng{authorfullhash}{f2f7874d0b3fa01623a5107985715f39}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: The diagnosis of spondylodiscitis can be difficult, because the patients history, subjective symptoms and physical findings are often inconclusive, particularly in the early stages. AIM: To perform an overview on the role of nuclear medicine procedures with single photon emission tomography (SPET) and positron emission tomography (PET) tracers in the diagnosis of spondylodiscitis. MATERIALS AND METHODS: A literature review about bone scintigraphy, Gallium-67-citrate scintigraphy, labeled leukocytes scintigraphy and PET was performed. Main findings of the literature were reported. RESULTS: Bone scintigraphy is a sensitive and widely available nuclear medicine technique, but it is characterized by low specificity. Gallium-67-citrate scintigraphy is often used as a complement to bone scintigraphy to enhance the specificity of the study and to detect extra-osseous sites of infection. Labeled leukocytes scintigraphy is not a useful method in the diagnosis of spondylodiscitis. Fluorine-18-fluorodeoxyglucose positron emission tomography is a sensitive method and could potentially be useful in the diagnosis of spondylodiscitis and in the evaluation of treatment response. Nevertheless, scientific literature about this topic is still limited. CONCLUSIONS: Overall, nuclear medicine procedures play a useful role in the diagnosis of spondylodiscitis identifying functional abnormalities which precede morphological changes. Therefore, nuclear medicine procedures may complement or integrate morphological imaging findings in patients with suspected spondylodiscitis.}
+      \field{issn}{1128-3602}
+      \field{journaltitle}{Eur Rev Med Pharmacol Sci}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{The Role of Nuclear Medicine in the Diagnosis of Spondylodiscitis}
+      \field{volume}{16 Suppl 2}
+      \field{year}{2012}
+      \field{pages}{20\bibrangedash 25}
+      \range{pages}{6}
+      \keyw{Adult,Discitis,Female,Humans,Intervertebral Disc,Male,Middle Aged,notion,Osteomyelitis,Positron-Emission Tomography,Predictive Value of Tests,Radiopharmaceuticals,Tomography Emission-Computed Single-Photon}
+    \endentry
+    \entry{RadionuclideImagingMusculoskeletal2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1152b0d277ad2597dfbf7471eabc5014}{%
+           family={Palestro},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Society of Nuclear Medicine}%
+      }
+      \strng{namehash}{1152b0d277ad2597dfbf7471eabc5014}
+      \strng{fullhash}{1152b0d277ad2597dfbf7471eabc5014}
+      \strng{bibnamehash}{1152b0d277ad2597dfbf7471eabc5014}
+      \strng{authorbibnamehash}{1152b0d277ad2597dfbf7471eabc5014}
+      \strng{authornamehash}{1152b0d277ad2597dfbf7471eabc5014}
+      \strng{authorfullhash}{1152b0d277ad2597dfbf7471eabc5014}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{There are numerous imaging tests for diagnosing musculoskeletal infection. Radiographs are routinely performed, because even when not diagnostic, they provide an anatomic overview of the region of interest that could influence subsequent procedure selection and interpretation. MRI is sensitive and provides superb anatomic detail. Bone scintigraphy accurately diagnoses osteomyelitis in bones not affected by underlying conditions. 67Ga is used primarily for spondylodiskitis. Although in vitro labeled leukocyte imaging is the radionuclide test of choice for complicating osteomyelitis such as diabetic pedal osteomyelitis and prosthetic joint infection, it is not useful for spondylodiskitis. Antigranulocyte antibodies and antibody fragments have limitations and are not widely available. 111In-biotin is useful for spondylodiskitis. Radiolabeled synthetic fragments of the antimicrobial peptide ubiquicidin are promising infection-specific agents. 18F-FDG is the radiopharmaceutical of choice for spondylodiskitis. Its role in diabetic pedal osteomyelitis and prosthetic joint infection is not established. Preliminary data suggest 68Ga may be useful in musculoskeletal infection. 124I-fialuridine initially showed promise as an infection-specific radiopharmaceutical, but subsequent investigations were disappointing. The development of PET/CT and SPECT/CT imaging systems, which combine anatomic and functional imaging, has revolutionized diagnostic imaging. These hybrid systems are redefining the diagnostic workup of patients with suspected or known infection and inflammation by improving diagnostic accuracy and influencing patient management.}
+      \field{chapter}{Continuing Education}
+      \field{issn}{0161-5505, 2159-662X}
+      \field{journaltitle}{Journal of Nuclear Medicine}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shorttitle}{Radionuclide {{Imaging}} of {{Musculoskeletal Infection}}}
+      \field{title}{Radionuclide {{Imaging}} of {{Musculoskeletal Infection}}: {{A Review}}}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{57}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{1406\bibrangedash 1412}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.2967/jnumed.115.157297
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/Q7U88DX5/Palestro_2016_Radionuclide Imaging of Musculoskeletal Infection.pdf
+      \endverb
+      \keyw{FDG,gallium,labeled leukocytes,notion,osteomyelitis,PET/CT,SPECT/CT}
+    \endentry
+    \entry{ImagingAssessmentSpine2024}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ebfd594d73c5f35610c983454bd05994}{%
+           family={Laur},
+           familyi={L\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=47f7ad9b76eab908d48bfb97d89863b7}{%
+           family={Schonberger},
+           familyi={S\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=de9e2c84038545dcf0de5ad3300914fd}{%
+           family={Gunio},
+           familyi={G\bibinitperiod},
+           given={Drew},
+           giveni={D\bibinitperiod}}}%
+        {{hash=908652b43f742994fcc978519b2b8435}{%
+           family={Minkowitz},
+           familyi={M\bibinitperiod},
+           given={Shlomo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e04c512d95786c8372aae5ceb70c6023}{%
+           family={Salama},
+           familyi={S\bibinitperiod},
+           given={Gayle},
+           giveni={G\bibinitperiod}}}%
+        {{hash=dd4092657b93219ada4b466881853b76}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=46e50aec4fb764743cb7b4b2a16cb069}{%
+           family={Bartolotta},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a01d98ab7738e8ffd253d263256c753}
+      \strng{fullhash}{3640e9c06f8f7d73632ecf3ab8e1190b}
+      \strng{bibnamehash}{3640e9c06f8f7d73632ecf3ab8e1190b}
+      \strng{authorbibnamehash}{3640e9c06f8f7d73632ecf3ab8e1190b}
+      \strng{authornamehash}{1a01d98ab7738e8ffd253d263256c753}
+      \strng{authorfullhash}{3640e9c06f8f7d73632ecf3ab8e1190b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article comprehensively reviews current imaging concepts in spinal infection with primary focus on infectious spondylodiscitis (IS) as well as the less common entity of facet joint septic arthritis (FSA). This review encompasses the multimodality imaging appearances (radiographs, CT, MRI, and nuclear imaging) of spinal infection---both at initial presentation and during treatment---to aid the radiologist in guiding diagnosis and successful management. We discuss the pathophysiology of spinal infection in various patient populations (including the non-instrumented and postoperative spine) as well as the role of imaging-guided biopsy. We also highlight several non-infectious entities that can mimic IS (both clinically and radiologically) that should be considered during image interpretation to avoid misdiagnosis. These potential mimics include the following: Modic type 1 degenerative changes, acute Schmorl's node, neuropathic spondyloarthropathy, radiation osteitis, and inflammatory spondyloarthropathy (SAPHO syndrome).}
+      \field{issn}{1432-2161}
+      \field{journaltitle}{Skeletal Radiol}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Imaging Assessment of Spine Infection}
+      \field{urlday}{8}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/s00256-023-04558-3
+      \endverb
+      \keyw{Biopsy,Discitis,Infection,notion,Osteomyelitis,Septic arthritis,Spine}
+    \endentry
+    \entry{EtiologyClinicalPresentation2016}{article}{}
+      \name{author}{8}{}{%
+        {{hash=36e47351fdfd1af15c58a496b67f309d}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Hyun\bibnamedelima Mi},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4b96fbf0f50191dda3b9870a2d338eea}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Eun\bibnamedelima Hwa},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1a9b8de15242069fa2df3123c4dc2cec}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hoan\bibnamedelima Jong},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3155c870e76688567a584bd3c4d34bb0}{%
+           family={Yun},
+           familyi={Y\bibinitperiod},
+           given={Ki\bibnamedelima Wook},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=002be1747f7ea3f9812a211f5f9f6c54}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Choon-Ki},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=f66837efac44c0abc1942c622e156bcc}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Tae-Joon},
+           giveni={T\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=0ec3ee8a08f1884d9a376f40403dc2be}{%
+           family={Cheon},
+           familyi={C\bibinitperiod},
+           given={Jung-Eun},
+           giveni={J\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=c6d1b6ad9d8d3c9de024f9c74ad3e767}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyunju},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bde9d32a451d272f2a57f597e026b4e}
+      \strng{fullhash}{cc3d0fb7b43761bbf0f35423629a4590}
+      \strng{bibnamehash}{cc3d0fb7b43761bbf0f35423629a4590}
+      \strng{authorbibnamehash}{cc3d0fb7b43761bbf0f35423629a4590}
+      \strng{authornamehash}{8bde9d32a451d272f2a57f597e026b4e}
+      \strng{authorfullhash}{cc3d0fb7b43761bbf0f35423629a4590}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background:~ Spondylodiscitis (SD) is a rare disease in children and diagnosis can be delayed because of the scarcity in incidence and lack of awareness. The purpose of this study was to evaluate and report the microbiologic epidemiology and clinical features of pediatric SD in South Korea. Methods:~ This was a retrospective study of children {$<$}19 years old admitted for the treatment of SD between 2000 and 2014. Electronic medical records were reviewed for clinical parameters and etiologic agents. Results:~ During the 15-year period, 25 patients were diagnosed with SD. The median age was 13.8 years, and 60\% were male. Back pain was the most common presenting symptom (n = 17; 68\%), and only 52\% (n = 13) of the patients had a history of fever ({$\geq$}38.0{$^\circ$}C). In patients younger than 3 years, irritability (n = 5; 62.5\%) was the most predominant symptom. Microorganisms were isolated in 22 cases, the most common being Staphylococcus aureus (40\%) and Mycobacterium tuberculosis (32\%). Of the 25 patients, 64\% (n = 16) had blood cultures taken, 56\% (n = 14) underwent percutaneous fluoroscopy-guided biopsy, and 48\% (n = 12) underwent open surgical biopsy. The positive rate for microbiologic diagnosis of each method was 18.8\% (n = 3) for blood culture, 71.4\% (n = 10) for percutaneous biopsy and 100\% (n = 12) for surgical biopsy. Overall, 52\% (n = 13) needed surgical treatment along with antibiotic therapy. Patients who needed surgery had a significant delay in diagnosis compared with those that did not (median, 60 vs. 31 days; P = 0.014). Conclusions:~ S. aureus and M. tuberculosis are the predominant causes of SD in children in South Korea. Obtaining tissue culture is important to confirm the bacterial etiology of the infection and appropriately guide antibiotic therapy in a community in which the endemic organisms require treatment pathways that are widely divergent.}
+      \field{issn}{0891-3668}
+      \field{journaltitle}{The Pediatric Infectious Disease Journal}
+      \field{langid}{american}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{The {{Etiology}}, {{Clinical Presentation}} and {{Long-term Outcome}} of {{Spondylodiscitis}} in {{Children}}}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{e102}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1097/INF.0000000000001043
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/LJK5HDR4/the_etiology,_clinical_presentation_and_long_term.11.html
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{EpidemiologySpondylodiscitisGermany2023}{article}{}
+      \name{author}{8}{}{%
+        {{hash=be4cfc05e9e5c53ea82af56d94ef48da}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Siegmund},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e5ce71f37969f1325776ff604f213ba}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Nike},
+           giveni={N\bibinitperiod}}}%
+        {{hash=baff59b32cd9c9866dde4a03fef147cd}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ea8a614b244c7ebbc609dda7d3c1586}{%
+           family={Baertl},
+           familyi={B\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8ed4adc7a0ecaabc46a27f7fa49c34b0}{%
+           family={Szymski},
+           familyi={S\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=391bfe831f89db80ea5790a42d930fec}{%
+           family={Loibl},
+           familyi={L\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=20909225076d04f0939725d35cf92b95}{%
+           family={Alt},
+           familyi={A\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=b5aeca2d50fc9e74585a1ea7f812f1cd}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{baebc147d7d5106c9437f5820bf13836}
+      \strng{fullhash}{ac890fc1e085e35c89abf38e07619002}
+      \strng{bibnamehash}{ac890fc1e085e35c89abf38e07619002}
+      \strng{authorbibnamehash}{ac890fc1e085e35c89abf38e07619002}
+      \strng{authornamehash}{baebc147d7d5106c9437f5820bf13836}
+      \strng{authorfullhash}{ac890fc1e085e35c89abf38e07619002}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Spondylodiscitis can lead to significant morbidity and mortality. Understanding its up-to-date epidemiological characteristics and trends is important to improve patient care. Methods: This study analyzed trends in the incidence rate of spondylodiscitis cases in Germany between 2010 and 2020, as well as the pathogens, in-hospital mortality rate, and length of hospital stay. Data were obtained from the Federal Statistical Office and the Institute for the Hospital Remuneration System database. The ICD-10 codes ``M46.2-'', ``M46.3-'' and ``M46.4-'' were evaluated. Results: The incidence rate of spondylodiscitis increased to 14.4/100,000 inhabitants, with 59.6\% cases occurring in patients 70 years or older and affecting mainly the lumbar spine (56.2\%). Absolute case numbers increased from 6886 by 41.6\% to 9753 in 2020 (IIR = 1.39, 95\% CI 0.62--3.08). Staphylococci and Escherichia coli were the most coded pathogens. The proportion of resistant pathogens was 12.9\%. In-hospital mortality rates increased to a maximum of 64.7/1000 patients in 2020, intensive care unit treatment was documented in 2697 (27.7\%) cases, and the length of stay per case was 22.3 days. Conclusion: The sharply increasing incidence and in-hospital mortality rate of spondylodiscitis highlights the need for patient-centered therapy to improve patient outcomes, especially in the geriatric, frail population, which is prone to infectious diseases.}
+      \field{issn}{2077-0383}
+      \field{journaltitle}{Journal of Clinical Medicine}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{10}
+      \field{shorttitle}{The {{Epidemiology}} of {{Spondylodiscitis}} in {{Germany}}}
+      \field{title}{The {{Epidemiology}} of {{Spondylodiscitis}} in {{Germany}}: {{A Descriptive Report}} of {{Incidence Rates}}, {{Pathogens}}, {{In-Hospital Mortality}}, and {{Hospital Stays}} between 2010 and 2020}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{3373}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jcm12103373
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/BUG96ARM/Lang et al_2023_The Epidemiology of Spondylodiscitis in Germany.pdf
+      \endverb
+      \keyw{antimicrobial resistance,epidemiology,geriatric population,mortality,notion,pathogens,spondylodiscitis}
+    \endentry
+    \entry{PercutaneousCTGuidedBone2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=22b895bdf22f3324236e7e5be12a3c2c}{%
+           family={Spinnato},
+           familyi={S\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=67033aa40ab711adab77ae713269259c}{%
+           family={Colangeli},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c9c42aff8b564e9e265c5eb0640fb37f}{%
+           family={Rinaldi},
+           familyi={R\bibinitperiod},
+           given={Raffaella},
+           giveni={R\bibinitperiod}}}%
+        {{hash=db8f64ce53f07ea2545e5d7b2426be7d}{%
+           family={Ponti},
+           familyi={P\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a713893bdf9c263e2fa226a5ee15e60f}
+      \strng{fullhash}{ad452ea1c11368531b6c0a5c50f9b5c6}
+      \strng{bibnamehash}{ad452ea1c11368531b6c0a5c50f9b5c6}
+      \strng{authorbibnamehash}{ad452ea1c11368531b6c0a5c50f9b5c6}
+      \strng{authornamehash}{a713893bdf9c263e2fa226a5ee15e60f}
+      \strng{authorfullhash}{ad452ea1c11368531b6c0a5c50f9b5c6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{CT-guided bone biopsies are currently the diagnostic tool of choice for histopathological (and microbiological) diagnoses of skeletal lesions. Several research works have well-demonstrated their safety and feasibility in almost all skeletal regions. This comprehensive review article aims at summarizing the general concepts in regard to bone biopsy procedures, current clinical indications, the feasibility and the diagnostic yield in different skeletal sites, particularly in the most delicate and difficult-to-reach ones. The choice of the correct imaging guidance and factors affecting the diagnostic rate, as well as possible complications, will also be discussed. Since the diagnostic yield, technical difficulties, and complications risk of a CT-guided bone biopsy significantly vary depending on the different skeletal sites, subdivided analyses of different anatomical sites are provided. The information included in the current review article may be useful for clinicians assisting patients with possible bone neoplasms, as well as radiologists involved in the imaging diagnoses of skeletal lesions and/or in performing bone biopsies.}
+      \field{issn}{2075-4418}
+      \field{journaltitle}{Diagnostics (Basel)}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{14}
+      \field{shorttitle}{Percutaneous {{CT-Guided Bone Biopsies}}}
+      \field{title}{Percutaneous {{CT-Guided Bone Biopsies}}: {{Indications}}, {{Feasibility}} and {{Diagnostic Yield}} in the {{Different Skeletal Sites-From}} the {{Skull}} to the {{Toe}}}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{2350}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics13142350
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/96R9UN6H/Spinnato et al_2023_Percutaneous CT-Guided Bone Biopsies.pdf
+      \endverb
+      \keyw{bone and bones,bone neoplasm,image-guided biopsy,multidetector computed tomography,neoplasm metastasis,notion,sarcoma}
+    \endentry
+    \entry{ImageGuidedBiopsyAcute2023}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6bfe3c514fb886e96d06ceed4c19a38c}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Connie\bibnamedelima Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=5252872d9a7887f717b04920a8f143d0}{%
+           family={Pelzl},
+           familyi={P\bibinitperiod},
+           given={Casey},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0e888604bbd3b4c3d38a397cff888c1a}{%
+           family={Jesse},
+           familyi={J\bibinitperiod},
+           given={Mary\bibnamedelima Kate},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5ac00c6a5c7b183138f99df6e0168ae1}{%
+           family={Habibollahi},
+           familyi={H\bibinitperiod},
+           given={Sina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d44b3577a75ecb08213da2a155eda8dc}{%
+           family={Habib},
+           familyi={H\bibinitperiod},
+           given={Ukasha},
+           giveni={U\bibinitperiod}}}%
+        {{hash=3baaec6115435db2561c84e7c121830d}{%
+           family={Gyftopoulos},
+           familyi={G\bibinitperiod},
+           given={Soterios},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2228c3565c90f034c018d60abe39990e}
+      \strng{fullhash}{4cdd97f5ac5250cf3f7977073575843e}
+      \strng{bibnamehash}{4cdd97f5ac5250cf3f7977073575843e}
+      \strng{authorbibnamehash}{4cdd97f5ac5250cf3f7977073575843e}
+      \strng{authornamehash}{2228c3565c90f034c018d60abe39990e}
+      \strng{authorfullhash}{4cdd97f5ac5250cf3f7977073575843e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND. The reported sensitivity and yield of image-guided biopsies for diskitis-osteomyelitis vary widely. OBJECTIVE. The purpose of this study was to perform a systematic review of the literature and meta-analysis of pooled sensitivity data to elucidate strategies for optimal image-guided biopsies among patients suspected to have diskitis-osteomyelitis. EVIDENCE ACQUISITION. A comprehensive literature search was performed for studies of patient populations with proven or suspected diskitis-osteomyelitis that included percutaneous image-guided biopsy as part of the workup algorithm. Type of pathogens, imaging modality used for biopsy guidance, tissue targeted, antibiotic administration at the time of biopsy, true microbiology positives, true microbiology negatives, false microbiology positives, false microbiology negatives, disease (i.e., diskitis-osteomyelitis) positives as determined by reference standard, true infection positives (i.e., positive microbiology or pathology results), and total number of biopsies performed were extracted from the studies. Microbiology sensitivity, microbiology biopsy yield, and infection sensitivity were calculated from the pooled data. These terms and the data required to calculate them were also defined in detail. EVIDENCE SYNTHESIS. Thirty-six articles satisfied inclusion criteria and were used for analysis. The pooled microbiology sensitivity, infection sensitivity, and microbiology biopsy yields were 46.6\%, 70.0\%, and 26.7\%, respectively. Mycobacterium tuberculosis-only microbiology sensitivity was significantly higher than both pyogenic bacteria and mixed-organism microbiology sensitivity (p {$<$} .001). Staphylococcus aureus was the most common causative organism (28.6\%). Pooled microbiology sensitivity was not significantly different for CT guidance and fluoroscopy guidance (p = .16). There was a statistically significant difference between pooled microbiology sensitivity of bone/end plate (45.5\%) and disk/paravertebral soft-tissue (64.8\%) image-guided biopsies (p {$<$} .001). There was no statistically significant difference in pooled microbiology sensitivities for patients who received antibiotics before the procedure (46.2\%) and those who did not (44.6\%) (p = .70). CONCLUSION. Image guidance by CT or fluoroscopy does not affect microbiology yield, disk and paravertebral soft-tissue biopsies should be considered over bone and end plate biopsies, and preprocedural antibiotic administration does not appear to impact biopsy results. CLINICAL IMPACT. Understanding and correctly applying reported statistics contribute to appropriate interpretation of the abundant literature on this topic and optimization of care for patients with diskitis-osteomyelitis.}
+      \field{issn}{1546-3141}
+      \field{journaltitle}{AJR Am J Roentgenol}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{Image-{{Guided Biopsy}} in {{Acute Diskitis-Osteomyelitis}}}
+      \field{title}{Image-{{Guided Biopsy}} in {{Acute Diskitis-Osteomyelitis}}: {{A Systematic Review}} and {{Meta-Analysis}}}
+      \field{volume}{220}
+      \field{year}{2023}
+      \field{pages}{499\bibrangedash 511}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.2214/AJR.22.28423
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/6GHD7CF4/Chang et al_2023_Image-Guided Biopsy in Acute Diskitis-Osteomyelitis.pdf
+      \endverb
+      \keyw{Anti-Bacterial Agents,biopsy,Biopsy,Bone and Bones,Discitis,diskitis-osteomyelitis,Humans,Image-Guided Biopsy,infection,microbiology,notion,Osteomyelitis,Retrospective Studies}
+    \endentry
+    \entry{UltrasoundGuidedPercutaneousBone2023}{article}{}
+      \name{author}{7}{}{%
+        {{hash=db8f64ce53f07ea2545e5d7b2426be7d}{%
+           family={Ponti},
+           familyi={P\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3ab3e31d11f2b9f0f9f1e54ee834acda}{%
+           family={Arioli},
+           familyi={A\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e4d1f480345a321a856bca86df586b9}{%
+           family={Longo},
+           familyi={L\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2cb07efdfe63423804ea53d1025f1b4e}{%
+           family={Miceli},
+           familyi={M\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=67033aa40ab711adab77ae713269259c}{%
+           family={Colangeli},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=552604c2a09cd81148a98ffb9ae64d0c}{%
+           family={Papalexis},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=22b895bdf22f3324236e7e5be12a3c2c}{%
+           family={Spinnato},
+           familyi={S\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f44b584734b43e0a610ace403e312e}
+      \strng{fullhash}{53556308ee4d21b5101f2f4828b8d009}
+      \strng{bibnamehash}{53556308ee4d21b5101f2f4828b8d009}
+      \strng{authorbibnamehash}{53556308ee4d21b5101f2f4828b8d009}
+      \strng{authornamehash}{75f44b584734b43e0a610ace403e312e}
+      \strng{authorfullhash}{53556308ee4d21b5101f2f4828b8d009}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{While nowadays, CT-guided bone biopsy represents the gold standard tool for histopathological and microbiological diagnosis of skeletal lesions, the role of US-guided bone biopsy has not yet been fully explored. US-guided biopsy offers several advantages, such as the absence of ionizing radiation, fast acquisition time, as well as good intra-lesional echo, and structural and vascular characterization. Despite that, a consensus in regard to its applications in bone neoplasms has not been established. Indeed CT-guided technique (or fluoroscopic ones) still represents the standard choice in clinical practice. This review article aims to review the literature data about US-guided bone biopsy, underlying clinical-radiological indications, advantages of the procedure and future perspectives. Bone lesions taking the best advantages of the US-guided biopsy are osteolytic, determining the erosion of the overlying bone cortex and/or with an extraosseous soft-tissue component. Indeed, osteolytic lesions with extra-skeletal soft-tissue involvement represent a clear indication for US-guided biopsy. Moreover, even lytic bone lesions with cortical thinning and/or cortical disruption, especially located in the extremities or pelvis, can be safely sampled with US guidance with very good diagnostic yield. US-guided bone biopsy is proven to be fast, effective and safe. Additionally, it offers real-time needle evaluation, an advantage when compared to CT-guided bone biopsy. In the current clinical settings, it seems relevant to select the exact eligibility criteria for this imaging guidance since the effectiveness can vary depending on the type of lesion and body site involved.}
+      \field{issn}{2075-4418}
+      \field{journaltitle}{Diagnostics (Basel)}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{10}
+      \field{shorttitle}{Ultrasound-{{Guided Percutaneous Bone Biopsy}}}
+      \field{title}{Ultrasound-{{Guided Percutaneous Bone Biopsy}}: {{Feasibility}}, {{Diagnostic Yield}} and {{Technical Notes}}}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{1773}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics13101773
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/5BU8B6IY/Ponti et al_2023_Ultrasound-Guided Percutaneous Bone Biopsy.pdf
+      \endverb
+      \keyw{bone neoplasms,image-guided biopsy,interventional,notion,radiology,ultrasonography}
+    \endentry
+    \entry{CorrelationFollowupMRI2020}{article}{}
+      \name{author}{5}{}{%
+        {{hash=45234ce5b340eddf1a34cad0faafdf39}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Kyung-Sik},
+           giveni={K\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=23f6c77a426e2521d6e869dd825d275f}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Chang\bibnamedelima Ho},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=549d005d1dcd186bdee9985144b97eab}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Suk-Joo},
+           giveni={S\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=a3f86f98fa5d6f1aa78b7ed195094a1a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Baek\bibnamedelima Hyun},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f1208915a0a8fdb6296ff62a934ffa57}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Euddeum},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4060992c7f2dfa0a7bcefaf5b1e280d3}
+      \strng{fullhash}{9ffb62b291f76b1c09243782487fda0b}
+      \strng{bibnamehash}{9ffb62b291f76b1c09243782487fda0b}
+      \strng{authorbibnamehash}{9ffb62b291f76b1c09243782487fda0b}
+      \strng{authornamehash}{4060992c7f2dfa0a7bcefaf5b1e280d3}
+      \strng{authorfullhash}{9ffb62b291f76b1c09243782487fda0b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although MRI is the gold-standard imaging method in the diagnosis of spondylodiscitis, role of follow-up imaging is debated and there can be discrepancies with regard to the significance of bony or soft tissue responses to treatment. Purpose of our study is to test whether the MRI changes on follow-up imaging correlate with laboratory findings of treatment response.}
+      \field{issn}{1471-2474}
+      \field{journaltitle}{BMC Musculoskeletal Disorders}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{The Correlation between Follow-up {{MRI}} Findings and Laboratory Results in Pyogenic Spondylodiscitis}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{428}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12891-020-03446-4
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/L6NM9Y7Y/Ahn et al_2020_The correlation between follow-up MRI findings and laboratory results in.pdf;/Users/nicolas/Zotero/storage/R7E3I6ND/s12891-020-03446-4.html
+      \endverb
+      \keyw{C-reactive protein,Erythrocyte sedimentation rate,Infection,Magnetic resonance imaging,notion,Spine}
+    \endentry
+    \entry{SpondylodiscitisUpdateDiagnosis2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6ec57e79283bda231efd1c2d7356f47b}{%
+           family={Gouliouris},
+           familyi={G\bibinitperiod},
+           given={Theodore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5e355aef520b66ebe4fe9e3244cbc98e}{%
+           family={Aliyu},
+           familyi={A\bibinitperiod},
+           given={Sani\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e4de7605f18f2685aa47cf40a2a93c19}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Nicholas\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a22298063bfeb933b6191af0f7531e1f}
+      \strng{fullhash}{a22298063bfeb933b6191af0f7531e1f}
+      \strng{bibnamehash}{a22298063bfeb933b6191af0f7531e1f}
+      \strng{authorbibnamehash}{a22298063bfeb933b6191af0f7531e1f}
+      \strng{authornamehash}{a22298063bfeb933b6191af0f7531e1f}
+      \strng{authorfullhash}{a22298063bfeb933b6191af0f7531e1f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Spondylodiscitis, a term encompassing vertebral osteomyelitis, spondylitis and discitis, is the main manifestation of haematogenous osteomyelitis in patients aged over 50 years. Staphylococcus aureus is the predominant pathogen, accounting for about half of non-tuberculous cases. Diagnosis is difficult and often delayed or missed due to the rarity of the disease and the high frequency of low back pain in the general population. In this review of the published literature, we found no randomized trials on treatment and studies were too heterogeneous to allow comparison. Improvements in surgical and radiological techniques and the discovery of antimicrobial therapy have transformed the outlook for patients with this condition, but morbidity remains significant. Randomized trials are needed to assess optimal treatment duration, route of administration, and the role of combination therapy and newer agents.}
+      \field{issn}{0305-7453}
+      \field{journaltitle}{Journal of Antimicrobial Chemotherapy}
+      \field{month}{11}
+      \field{number}{suppl\_3}
+      \field{shorttitle}{Spondylodiscitis}
+      \field{title}{Spondylodiscitis: Update on Diagnosis and Management}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{65}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{iii11\bibrangedash iii24}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/jac/dkq303
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/TH6NSW2T/Gouliouris et al_2010_Spondylodiscitis.pdf;/Users/nicolas/Zotero/storage/AGKEMYEH/923760.html
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{SurgicalTreatmentSpondylodiscitis2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ae9da62916defd089e4ddd767712f023}{%
+           family={Guerado},
+           familyi={G\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a21835d619b77f72d53f1a3aefde2ed1}{%
+           family={Cerván},
+           familyi={C\bibinitperiod},
+           given={Ana\bibnamedelima María},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \strng{fullhash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \strng{bibnamehash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \strng{authorbibnamehash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \strng{authornamehash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \strng{authorfullhash}{5ddb31abdd4106c79d5483b1cadaf97d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CONCEPT: Spondylodiscitis refers to an infection affecting the intervertebral disk, the vertebral body or the posterior arch of the vertebra being aetiologically, pyogenic, granulomatous (tuberculosis, brucellosis, or fungal infection) or parasitic. DIAGNOSIS: Spondylodiscitis diagnosis is based on clinical symptoms, a combination of erythrocyte sedimentation rate with C-reactive protein (CRP) tests and, less useful, leukocytosis. Blood culture is also a very cost-effective method of identifying organisms. Plain radiographs are useful, however changes may take several months to appear. Radionuclide tests are currently less used; nevertheless, fluorine-18 fluorodeoxyglucose positron emission tomography (FDG-PET) shows encouraging results particularly when magnetic resonance images (MRI) are unconvincing in the distinction between degenerative changes and infection. MRI with gadolinium enhancement is the choice for image diagnosis. MANAGEMENT: Medical management is usually the basis for treatment, alone or in combination with surgery. Surgical approach, either by endoscopy or open, is indicated for biopsy when clinical evolution is unsatisfactory and no micro-organism has been isolated, and also whenever a root, spinal cord or dural compression is seen on MRI; spinal instability or severe deformity are also clear indications for surgical treatment. Less invasive surgery either CT-scan guided or, particularly, by endoscopy has good results. However open surgery is still the standard. The anterior approach allows for anterior disc and bone debridement. The posterior approach is indicated when posterior elements are involved or in the presence of an epidural abscess. Although good results have been claimed, the use of instrumentation in the presence of an infected focus is controversial, as the use of cages or BMPs are.}
+      \field{issn}{1432-5195}
+      \field{journaltitle}{Int Orthop}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Surgical Treatment of Spondylodiscitis. {{An}} Update}
+      \field{volume}{36}
+      \field{year}{2012}
+      \field{pages}{413\bibrangedash 420}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00264-011-1441-1
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/7JVRCJ3N/Guerado_Cerván_2012_Surgical treatment of spondylodiscitis.pdf
+      \endverb
+      \keyw{Bone Transplantation,Decompression Surgical,Discitis,Epidural Abscess,Humans,Laminectomy,notion,Orthopedic Procedures,Thoracoscopy,Treatment Outcome,Tuberculosis Spinal}
+    \endentry
+    \entry{RetrospectiveStudySpondylodiscitis2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ba16cfebe929ce7d663aba54337549fe}{%
+           family={Brogna},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d5fba1962a12218cce76719e57f8193a}{%
+           family={Aless},
+           familyi={A\bibinitperiod}}}%
+        {{hash=ec01ec5e9b0b91a327bee733917b76c7}{%
+           family={Coppola},
+           familyi={C\bibinitperiod},
+           given={Ra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b82752350bc28ecdaedf4072355525aa}{%
+           family={Bignardi},
+           familyi={B\bibinitperiod},
+           given={Elio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Open Access Journals}%
+      }
+      \strng{namehash}{31659b8f4508de88d8a3b0b3d08ceadf}
+      \strng{fullhash}{0497be604e8e4c6f20d2eaf1c9f03cbf}
+      \strng{bibnamehash}{0497be604e8e4c6f20d2eaf1c9f03cbf}
+      \strng{authorbibnamehash}{0497be604e8e4c6f20d2eaf1c9f03cbf}
+      \strng{authornamehash}{31659b8f4508de88d8a3b0b3d08ceadf}
+      \strng{authorfullhash}{0497be604e8e4c6f20d2eaf1c9f03cbf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction: Diagnosing Spondylodiscitis (SD) can be challenging in clinical practice with highly variable outcomes. The aim of this study is to retrospectively analyze the clinical, laboratory, imaging findings of patients with SD treated at our hospital between January 2017 and December 2018. We also evaluated the SD evolution during a short follow-up at 4 and 6 weeks. Methods: The epidemiological, clinical, microbiological, laboratory findings (White Blood Count (WBC), C-Reactive Protein (CRP) and Erythrocyte Sedimentation rate (ESR)), Imaging (CT/MRI) and treatment data of 38 patients with SD were studied retrospectively. The laboratory findings (CRP, ESR) and the CT/MRI examinations during the follow-ups at 4 and 6 weeks were evaluated. Based on imaging (CT/MRI) we divided SD into the following 5 types based on morphological features observed: spondylitis or discitis (ST/DS), SD, SD with paravertebral abscesses (SD-PA), SD with epidural abscess (SD-EP) and SD with paravertebral and epidural abscesses (SD-PEA). Results: The most common complaint was pain (95\%) and the main comorbidity was septicemia (42\%). Staphylococcus aureus was found in 45\% of the cases. The WBC was elevated in 32\% of the patients. Both the CRP and ESR decreased during the follow-up. SD was found in 31\% of the cases, SD-PA in 26\% of the cases, ST/DS in 19\% of the cases, SD-PEA in 13\% of the cases and SD-EP in 11\% of the cases. At the follow-up at week 4, SD-PA, SD-EP and SD-PEA had decreased and were found respectively in 21\%, 5\% and 5\% of the cases. In the follow-up at week 6, SD-PA, SD-EP and SD-PEA were found respectively in 10\%, 8\% and 3\% of the patients. Conservative treatment with antibiotic therapy was applied in 63\% of the cases. Surgical treatment was given to 21\% of the patients and an interventional procedure was done on 16\% of the patients. Conclusion: SD diagnosis and management continues to be based on a multidisciplinary approach. Re-imaging in the critical period of 4-6 weeks with the monitoring of systemic inflammatory markers can be a good follow-up strategy.}
+      \field{issn}{2041-6792}
+      \field{journaltitle}{Clinical Investigation}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{A Retrospective Study of {{Spondylodiscitis}} with Clinical, Imaging and Therapeutic Correlations}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{6\bibrangedash 14}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.37532/2041-6792.2020.10(1).162
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/CU3A66TN/Brogna et al_2020_A retrospective study of Spondylodiscitis with clinical, imaging and.pdf
+      \endverb
+      \keyw{,notion}
+    \endentry
+    \entry{SpondylodiscitisDiagnosisTreatment2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=41a1da9fa69bf4fa0368946c797678df}{%
+           family={Herren},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=75644bfd811f9c47e35c1499db80a707}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Norma},
+           giveni={N\bibinitperiod}}}%
+        {{hash=898501d947be054d697f216ba4880da7}{%
+           family={Pishnamaz},
+           familyi={P\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4bc79ee0d7b09ec567f7a5632f7af1cc}{%
+           family={Breuninger},
+           familyi={B\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod}}}%
+        {{hash=05278a4dd25455c1acdfd6be3e0f2e16}{%
+           family={Siewe},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ca90c13c17fc19e72ece27988558f91}{%
+           family={Sobottke},
+           familyi={S\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{abab6b472abd46ed6f8934fdbc63075d}
+      \strng{fullhash}{d9fdb33eeda7371acd386440dfaf4b9e}
+      \strng{bibnamehash}{d9fdb33eeda7371acd386440dfaf4b9e}
+      \strng{authorbibnamehash}{d9fdb33eeda7371acd386440dfaf4b9e}
+      \strng{authornamehash}{abab6b472abd46ed6f8934fdbc63075d}
+      \strng{authorfullhash}{d9fdb33eeda7371acd386440dfaf4b9e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND: A recent population-based study from Denmark showed that the incidence of spondylodiscitis rose from 2.2 to 5.8 per 100 000 persons per year over the period 1995-2008; the age-standardized incidence in Germany has been estimated at 30 per 250 000 per year on the basis of data from the Federal Statistical Office (2015). The early diagnosis and treatment of this condition are essential to give the patient the best chance of a good outcome, but these are often delayed because it tends to present with nonspecific manifestations, and fever is often absent. METHODS: This article is based on a systematic search of Medline and the Cochrane Library for the period January 2009 to March 2017. Of the 788 articles identified, 30 publications were considered. RESULTS: The goals of treatment for spondylodiscitis are to eliminate infection, restore functionality of the spine, and relieve pain. Magnetic resonance imaging (MRI) remains the gold standard for the radiological demonstration of this condition, with 92\% sensitivity and 96\% specificity. It also enables visualization of the spatial extent of the infection and of abscess formation (if present). The most common bacterial cause of spondylodiscitis in Europe is Staphylococcus aureus, but tuberculous spondylodiscitis is the most common type worldwide. Antibiotic therapy is a pillar of treatment for spondylodiscitis and should be a part of the treatment in all cases. Neurologic deficits, sepsis, an intraspinal empyema, the failure of conservative treatment, and spinal instability are all indications for surgical treatment. CONCLUSION: The quality of life of patients who have been appropriately treated for spondylodiscitis has been found to be highly satisfactory in general, although back pain often persists. The risk of recurrence increases in the presence of accompanying illnesses such as diabetes mellitus, renal failure, or undrained epidural abscesses.}
+      \field{issn}{1866-0452}
+      \field{journaltitle}{Dtsch Arztebl Int}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{51-52}
+      \field{shorttitle}{Spondylodiscitis}
+      \field{title}{Spondylodiscitis: {{Diagnosis}} and {{Treatment Options}}}
+      \field{volume}{114}
+      \field{year}{2017}
+      \field{pages}{875\bibrangedash 882}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3238/arztebl.2017.0875
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/Z5YIJT2Y/Herren et al_2017_Spondylodiscitis.pdf
+      \endverb
+      \keyw{Aged,Delayed Diagnosis,Discitis,Europe,Germany,Humans,Magnetic Resonance Imaging,Methicillin-Resistant Staphylococcus aureus,notion,Positron Emission Tomography Computed Tomography,Quality of Life,Spondylitis,Treatment Outcome}
+    \endentry
+    \entry{ImagingSpondylodiscitisComprehensive2024}{article}{}
+      \name{author}{9}{}{%
+        {{hash=013cd989e588023dbd47837ab93fd045}{%
+           family={Crombé},
+           familyi={C\bibinitperiod},
+           given={Amandine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=46d08c39a9ec18afa53b54220d2e60f8}{%
+           family={Fadli},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5d6bd45e32fee5d642976016ce575d6f}{%
+           family={Clinca},
+           familyi={C\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4b7b48d50e568dc73fe4308ff011075c}{%
+           family={Reverchon},
+           familyi={R\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f122194d650decae0b7f7dd5f45c9139}{%
+           family={Cevolani},
+           familyi={C\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=80d244f418615f3967eb94a3671a34df}{%
+           family={Girolami},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9852d7267c8ec195bd0619d8688ea6c}{%
+           family={Hauger},
+           familyi={H\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4a2c6ad45af7164486793ecd44b75adc}{%
+           family={Matcuk},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=22b895bdf22f3324236e7e5be12a3c2c}{%
+           family={Spinnato},
+           familyi={S\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecc8ab4f659071499d1ce4c182111c33}
+      \strng{fullhash}{bf0c87e133bb3d59153865581774c0d8}
+      \strng{bibnamehash}{bf0c87e133bb3d59153865581774c0d8}
+      \strng{authorbibnamehash}{bf0c87e133bb3d59153865581774c0d8}
+      \strng{authornamehash}{ecc8ab4f659071499d1ce4c182111c33}
+      \strng{authorfullhash}{bf0c87e133bb3d59153865581774c0d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Spondylodiscitis is defined by infectious conditions involving the vertebral column. The incidence of the disease has constantly increased over the last decades. Imaging plays a key role in each phase of the disease. Indeed, radiological tools are fundamental in (i) the initial diagnostic recognition of spondylodiscitis, (ii) the differentiation against inflammatory, degenerative, or calcific etiologies, (iii) the disease staging, as well as (iv) to provide clues to orient towards the microorganisms involved. This latter aim can be achieved with a mini-invasive procedure (e.g., CT-guided biopsy) or can be non-invasively supposed by the analysis of the CT, positron emission tomography (PET) CT, or MRI features displayed. Hence, this comprehensive review aims to summarize all the multimodality imaging features of spondylodiscitis. This, with the goal of serving as a reference for Physicians (infectious disease specialists, spine surgeons, radiologists) involved in the care of these patients. Nonetheless, this review article may offer starting points for future research articles.}
+      \field{issn}{2076-2607}
+      \field{journaltitle}{Microorganisms}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{5}
+      \field{shorttitle}{Imaging of {{Spondylodiscitis}}}
+      \field{title}{Imaging of {{Spondylodiscitis}}: {{A Comprehensive Updated Review-Multimodality Imaging Findings}}, {{Differential Diagnosis}}, and {{Specific Microorganisms Detection}}}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{pages}{893}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/microorganisms12050893
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/KMTGU2WW/Crombé et al_2024_Imaging of Spondylodiscitis.pdf
+      \endverb
+      \keyw{image-guided biopsy,magnetic resonance imaging,multidetector computed tomography,notion,positron emission tomography computed tomography,spondylodiscitis}
+    \endentry
+    \entry{SuggestionsManagingPyogenic2007}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d81fd844c9330ced1519fd4dea2c7ff9}{%
+           family={Grados},
+           familyi={G\bibinitperiod},
+           given={Franck},
+           giveni={F\bibinitperiod}}}%
+        {{hash=218efc05a18f5334991d34dc6161ff01}{%
+           family={Lescure},
+           familyi={L\bibinitperiod},
+           given={François\bibnamedelima Xavier},
+           giveni={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=6383f6aa4e7a5948505d9c8d6a9b7c76}{%
+           family={Senneville},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=05fb2193001482b52725030d2118ef1b}{%
+           family={Flipo},
+           familyi={F\bibinitperiod},
+           given={René\bibnamedelima Marc},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ff1e91b30bfe033d949dc0a02a686327}{%
+           family={Schmit},
+           familyi={S\bibinitperiod},
+           given={Jean\bibnamedelima Luc},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ae94df274cf79e86fbac357bb0525cc7}{%
+           family={Fardellone},
+           familyi={F\bibinitperiod},
+           given={Patrice},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{45f808d8efa96db9b6ae5bc57009aece}
+      \strng{fullhash}{1fcf584a8dee73be1652dc4dd4f451da}
+      \strng{bibnamehash}{1fcf584a8dee73be1652dc4dd4f451da}
+      \strng{authorbibnamehash}{1fcf584a8dee73be1652dc4dd4f451da}
+      \strng{authornamehash}{45f808d8efa96db9b6ae5bc57009aece}
+      \strng{authorfullhash}{1fcf584a8dee73be1652dc4dd4f451da}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVES: To develop recommendations about identifying the causative organism, obtaining imaging studies, and selecting pharmacological and non-pharmacological treatments in adults with pyogenic discitis and vertebral osteomyelitis (PDVO). METHODS: A rheumatologist and an infectiologist drafted recommendations based on their personal experience and a review of studies in English or French retrieved on Medline using the following search terms: "infectious spondylodiscitis", "infectious spondylitis", "spondylodiscitis", "discitis", "vertebral osteomyelitis", "spine infection", and "bone and joint infections". The recommendations were submitted to four experts for validation. RESULTS: 85 articles were selected for detailed review. No prospective randomized controlled trials were identified. Antimicrobial therapy should be initiated only after recovery of the causative organism in blood cultures or percutaneous disk biopsy specimens, except in patients with neutropenia or severe sepsis. The initial treatment rests on a combination of two bactericidal and synergistic antimicrobials in high dosages. The total duration of antimicrobial therapy should be 12 weeks at least. Radiographs of the spine and chest and magnetic resonance imaging (MRI) of the spine should be performed routinely during the initial evaluation. In PDVO due to hematogenous dissemination of a streptococcus or staphylococcus, routine echocardiography may be in order. Radiographs centered on the affected disk should be obtained 1 and 3 months into antimicrobial therapy and 3 months after treatment discontinuation. Follow-up MRI is usually unnecessary when the clinical and laboratory abnormalities respond to treatment. If not, or if the initial investigations show a collected abscess, a repeat MRI after 1 month of antimicrobial treatment may be useful. Clinical and laboratory follow-up is mandatory throughout antimicrobial therapy and during the first 6 months after treatment discontinuation. CONCLUSIONS: Recommendations based on descriptive studies and expert opinion were developed. They can be expected to improve the quality and uniformity of PDVO management. Further studies are needed to improve the level of evidence that is available for developing recommendations. In particular, prospective randomized multicenter studies should be performed to compare the intravenous to the oral route for initial antimicrobials administration and to compare different treatment durations.}
+      \field{issn}{1778-7254}
+      \field{journaltitle}{Joint Bone Spine}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Suggestions for Managing Pyogenic (Non-Tuberculous) Discitis in Adults}
+      \field{volume}{74}
+      \field{year}{2007}
+      \field{pages}{133\bibrangedash 139}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jbspin.2006.11.002
+      \endverb
+      \keyw{Abscess,Adult,Anti-Infective Agents,Bacteria,Bacterial Infections,Discitis,Dose-Response Relationship Drug,Drug Administration Routes,Drug Administration Schedule,Drug Monitoring,Humans,Immobilization,notion,Practice Guidelines as Topic,Suppuration}
+    \endentry
+    \entry{SpinalInfections2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1397a871b4a11777ac296b9b8125d555}{%
+           family={Govender},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1397a871b4a11777ac296b9b8125d555}
+      \strng{fullhash}{1397a871b4a11777ac296b9b8125d555}
+      \strng{bibnamehash}{1397a871b4a11777ac296b9b8125d555}
+      \strng{authorbibnamehash}{1397a871b4a11777ac296b9b8125d555}
+      \strng{authornamehash}{1397a871b4a11777ac296b9b8125d555}
+      \strng{authorfullhash}{1397a871b4a11777ac296b9b8125d555}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0301-620X}
+      \field{journaltitle}{J Bone Joint Surg Br}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Spinal Infections}
+      \field{volume}{87}
+      \field{year}{2005}
+      \field{pages}{1454\bibrangedash 1458}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1302/0301-620X.87B11.16294
+      \endverb
+      \keyw{Anti-Bacterial Agents,Bacterial Infections,Humans,notion,Osteomyelitis,Spondylitis}
+    \endentry
+    \entry{SpinalInfectionsClinical2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=03423399776eb4084046034aaa4f8f17}{%
+           family={Arbelaez},
+           familyi={A\bibinitperiod},
+           given={Andres},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cb5f59bc3801f2f6715517b548015b52}{%
+           family={Restrepo},
+           familyi={R\bibinitperiod},
+           given={Feliza},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0a9b3e8e00527776f42c23948acb3cdb}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfd14b70512831ad53179c42ae5a831c}
+      \strng{fullhash}{cfd14b70512831ad53179c42ae5a831c}
+      \strng{bibnamehash}{cfd14b70512831ad53179c42ae5a831c}
+      \strng{authorbibnamehash}{cfd14b70512831ad53179c42ae5a831c}
+      \strng{authornamehash}{cfd14b70512831ad53179c42ae5a831c}
+      \strng{authorfullhash}{cfd14b70512831ad53179c42ae5a831c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Spinal infections represent a group of rare conditions affecting vertebral bodies, intervertebral discs, paraspinal soft tissues, epidural space, meninges, and spinal cord. The causal factors, clinical presentations, and imaging features are a challenge because the difficulty to differentiate them from other conditions, such as degenerative and inflammatory disorders and spinal neoplasm. They require early recognition because delay diagnosis, imaging, and intervention may have devastating consequences especially in children and the elderly. This article reviews the most common spinal infections, their pathophysiologic, clinical manifestation, and their imaging findings.}
+      \field{issn}{1536-1004}
+      \field{journaltitle}{Top Magn Reson Imaging}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shorttitle}{Spinal Infections}
+      \field{title}{Spinal Infections: Clinical and Imaging Features}
+      \field{volume}{23}
+      \field{year}{2014}
+      \field{pages}{303\bibrangedash 314}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1097/RMR.0000000000000032
+      \endverb
+      \keyw{Bone Diseases Infectious,Diagnostic Imaging,Discitis,Female,Humans,Magnetic Resonance Imaging,Male,notion,Radiographic Image Enhancement,Sensitivity and Specificity,Spondylitis,Tomography X-Ray Computed}
+    \endentry
+    \entry{DiagnosticInterventionalManagement2020}{article}{}
+      \name{author}{13}{}{%
+        {{hash=a4f41152072e5aa7565152612e8a8a4f}{%
+           family={Palumbo},
+           familyi={P\bibinitperiod},
+           given={Pierpaolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6d8218baaa66119c97bcdc830e8197db}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=95db0192650c2c0f1c2ffca99db098cd}{%
+           family={Arrigoni},
+           familyi={A\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d735708b7b471207fbc0f9c410bd9c65}{%
+           family={Zappia},
+           familyi={Z\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dca386842479775d56ec8d92a2c4d325}{%
+           family={Ierardi},
+           familyi={I\bibinitperiod},
+           given={Anna\bibnamedelima Maria},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=20d3f88141dd85c78ccda89ba3ed4401}{%
+           family={Guglielmi},
+           familyi={G\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3ebe943a363613c199d3ae4615437328}{%
+           family={Zugaro},
+           familyi={Z\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e5b7e637665b536a4ff5ecd84607e945}{%
+           family={Carotti},
+           familyi={C\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=94c8359e93a6b74a06894e953c6ee68a}{%
+           family={Di\bibnamedelima Cesare},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod}}}%
+        {{hash=724f33c3ba12b88e7d458f25853bdc4a}{%
+           family={Splendiani},
+           familyi={S\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2b2c9623730a7202cc516f0b8f26b149}{%
+           family={Brunese},
+           familyi={B\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c25cd76f280178bf0b77af47423cd03d}{%
+           family={Masciocchi},
+           familyi={M\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ab1f86b429a1e121ce64a9984870da48}{%
+           family={Barile},
+           familyi={B\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aec06ff469bf0924f9fd8e4aeb82b24f}
+      \strng{fullhash}{c09ba9a51a172cbd0e6097e5a6118229}
+      \strng{bibnamehash}{c09ba9a51a172cbd0e6097e5a6118229}
+      \strng{authorbibnamehash}{c09ba9a51a172cbd0e6097e5a6118229}
+      \strng{authornamehash}{aec06ff469bf0924f9fd8e4aeb82b24f}
+      \strng{authorfullhash}{c09ba9a51a172cbd0e6097e5a6118229}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Spondylodiscitis (SD) is one of the main causes of back pain. Although the low mortality, high morbidity is related to spondilodiscitys, leading spine instability, chronic pain or neurological deficit. Diagnostic imaging plays a primary role in diagnosing spondylodiscitis. However different accuracy is highlighted by different diagnostic tool, depending also on timing of disease which represents a cardinal element for the phenotypic manifestation of the disease, beyond spatial resolution and tissue characterization proper of specific modality imaging. Conventional Radiology (CR), Computed Tomography (CT) and MRI (Magnetic Resonance Imaging) all have proven to be of primary importance in the approach to spondylodiscitis, although magnetic resonance imaging has demonstrated the greatest advantage in identifying the disease from its earliest stages, demonstrating high sensitivity and specificity (92\% and 96\%, respectively). This review focus on the role of different imaging modality in the approach to the spondylodiscitis, also addressing the role of interventional radiology that is pivotal not only for a diagnosis of certainty through biopsy, but also for a minimally-invasive treatment of paravertebral abscesses spondylodiscitis-related.}
+      \field{issn}{2531-6745}
+      \field{journaltitle}{Acta Biomed}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{8-S}
+      \field{title}{Diagnostic and Interventional Management of Infective Spine Diseases}
+      \field{volume}{91}
+      \field{year}{2020}
+      \field{pages}{125\bibrangedash 135}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.23750/abm.v91i8-S.9994
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/KPZFVVB5/Palumbo et al_2020_Diagnostic and interventional management of infective spine diseases.pdf
+      \endverb
+      \keyw{Biopsy,Discitis,Humans,Magnetic Resonance Imaging,notion,Spine,Tomography X-Ray Computed}
+    \endentry
+    \entry{ImagingCharacteristicsCT2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=93e71e68acfca8fd92b8a289be91ebb5}{%
+           family={Shroyer},
+           familyi={S\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9e3e965f7154be15a950b168ebc29369}{%
+           family={Boys},
+           familyi={B\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c0d382da3f5916e85c5d0273cf66e2f3}{%
+           family={April},
+           familyi={A\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0615a6aaad023aab9cdf9d6308efca1a}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Brit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b1104f9838e2964831a97a50d3672170}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Sumeru},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8f0b996445fb8dcd72167ea5662239e0}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={William\bibnamedelima T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed215e4eaafa6c25c4a4ca11e99205a8}
+      \strng{fullhash}{cc4d939976225d3cb11a3ba8d0330483}
+      \strng{bibnamehash}{cc4d939976225d3cb11a3ba8d0330483}
+      \strng{authorbibnamehash}{cc4d939976225d3cb11a3ba8d0330483}
+      \strng{authornamehash}{ed215e4eaafa6c25c4a4ca11e99205a8}
+      \strng{authorfullhash}{cc4d939976225d3cb11a3ba8d0330483}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND/OBJECTIVE: Contrast-enhanced magnetic resonance imaging (MRI) is the preferred imaging modality for diagnosing pyogenic spinal infection (PSI), but it is not always available. Our objective was to describe pyogenic spinal infection imaging characteristics in patients presenting to a community emergency department (ED) and estimate the computed tomography (CT) sensitivity for these infections. METHODS: We examined the MRI reports from a cohort of 88 PSI patients whom we enrolled in a prospective cohort study and report the prevalence of each PSI type (spinal epidural abscess/infection, vertebral osteomyelitis/discitis, septic facet, and paravertebral abscess/infection) according to contemporary nomenclature. In a 14 patient subcohort who underwent both CT and MRI studies, we report the sensitivity for each PSI from a post hoc blinded overread of the CT imaging by a single neuroradiologist. RESULTS: Of the 88 PSI patients, the median age was 55 years, and 31\% were female. The PSI prevalence included: spinal epidural abscess/infection (SEA) in 61(69\%), vertebral osteomyelitis/discitis (VO/D) in 54 (61\%), septic facet (SF) in 15 (17\%), and paravertebral abscess/infection (PVA) in 53 (60\%). Of the SEAs, 82\% (50/61) were associated with other spinal infections, while 18\% (11/61) were isolated SEAs. The overall CT sensitivity in a masked overread was 79\% (11/14) for any PSI, 83\% (10/12) for any infection outside the spinal canal, and only 18\% (2/11) for SEA. CONCLUSION: Patients found to have vertebral osteomyelitis/discitis, septic facet, and paravertebral infections frequently had a SEA coinfection. CT interpretation by a neuroradiologist had moderate sensitivity for infections outside the spinal canal but had low sensitivity for SEA.}
+      \field{issn}{1532-8171}
+      \field{journaltitle}{Am J Emerg Med}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Imaging Characteristics and {{CT}} Sensitivity for Pyogenic Spinal Infections}
+      \field{volume}{58}
+      \field{year}{2022}
+      \field{pages}{148\bibrangedash 153}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.ajem.2022.05.050
+      \endverb
+      \keyw{Back pain,Discitis,Epidural abscess,Epidural Abscess,Female,Humans,Magnetic Resonance Imaging,Male,Middle Aged,notion,Osteomyelitis,Paraspinal infection,Prospective Studies,Psoas infection,Septic facet,Tomography X-Ray Computed,Vertebral osteomyelitis}
+    \endentry
+    \entry{CurrentDiagnosisTreatment2008}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1ca90c13c17fc19e72ece27988558f91}{%
+           family={Sobottke},
+           familyi={S\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bb3436618eed9cad3e00d7b1e991b2b6}{%
+           family={Seifert},
+           familyi={S\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+        {{hash=53e57c57d3e032d82333e218711004bb}{%
+           family={Fätkenheuer},
+           familyi={F\bibinitperiod},
+           given={Gerd},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e722249b1927d6f3dbc6eda743ea7edb}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=053d1ef11888c1d567c2fcdf04143467}{%
+           family={Go{ß}mann},
+           familyi={G\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3b0b5bef7f2cda5ca4fae54164eb6d33}{%
+           family={Eysel},
+           familyi={E\bibinitperiod},
+           given={Peer},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Deutscher Arzte-Verlag GmbH}%
+      }
+      \strng{namehash}{8acdd869117d11c3f9a7d4c755f5e7e5}
+      \strng{fullhash}{68d459055b590bdcca32cf52753af918}
+      \strng{bibnamehash}{68d459055b590bdcca32cf52753af918}
+      \strng{authorbibnamehash}{68d459055b590bdcca32cf52753af918}
+      \strng{authornamehash}{8acdd869117d11c3f9a7d4c755f5e7e5}
+      \strng{authorfullhash}{68d459055b590bdcca32cf52753af918}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Infection of the spinal column is rare, and often recognized and treated too late. Spondylodiscitis is osteomyelitis of the spine and can cause severe symptoms. Hospital mortality is in the region of 2\% to 17\%.Selective literature review and results of ...}
+      \field{journaltitle}{Deutsches Ärzteblatt International}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{10}
+      \field{title}{Current {{Diagnosis}} and {{Treatment}} of {{Spondylodiscitis}}}
+      \field{urlday}{28}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{181}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3238/arztebl.2008.0181
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/GEQ3WJGX/Sobottke et al_2008_Current Diagnosis and Treatment of Spondylodiscitis.pdf;/Users/nicolas/Zotero/storage/XHJV3BYX/PMC2696793.html
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{SpinalInfectionState2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1cb3572ee16457eecb3b33d0b0c1e775}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Rui\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e5d8901628d88ea05a69a443fd5400db}{%
+           family={Vaccaro},
+           familyi={V\bibinitperiod},
+           given={Alexander\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \strng{fullhash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \strng{bibnamehash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \strng{authorbibnamehash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \strng{authornamehash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \strng{authorfullhash}{0183ed29943eaed6c4b964973a0ff6d4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{INTRODUCTION: Spinal infection is a rare pathology although a concerning rising incidence has been observed in recent years. This increase might reflect a progressively more susceptible population but also the availability of increased diagnostic accuracy. Yet, even with improved diagnosis tools and procedures, the delay in diagnosis remains an important issue. This review aims to highlight the importance of a methodological attitude towards accurate and prompt diagnosis using an algorithm to aid on spinal infection management. METHODS: Appropriate literature on spinal infection was selected using databases from the US National Library of Medicine and the National Institutes of Health. RESULTS: Literature reveals that histopathological analysis of infected tissues is a paramount for diagnosis and must be performed routinely. Antibiotic therapy is transversal to both conservative and surgical approaches and must be initiated after etiological diagnosis. Indications for surgical treatment include neurological deficits or sepsis, spine instability and/or deformity, presence of epidural abscess and upon failure of conservative treatment. CONCLUSIONS: A methodological assessment could lead to diagnosis effectiveness of spinal infection. Towards this, we present a management algorithm based on literature findings.}
+      \field{issn}{1432-0932}
+      \field{journaltitle}{Eur Spine J}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shorttitle}{Spinal Infection}
+      \field{title}{Spinal Infection: State of the Art and Management Algorithm}
+      \field{volume}{22}
+      \field{year}{2013}
+      \field{pages}{2787\bibrangedash 2799}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00586-013-2850-1
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/K7TLLXHT/Duarte_Vaccaro_2013_Spinal infection.pdf
+      \endverb
+      \keyw{Adult,Algorithms,Anti-Bacterial Agents,Antifungal Agents,Bacterial Infections,Delayed Diagnosis,Diagnostic Imaging,Discitis,Drug Resistance Microbial,Epidural Abscess,Female,Humans,Incidence,Male,Middle Aged,Mycoses,notion,Parasitic Diseases,Prognosis,Spine,Spondylitis,United States}
+    \endentry
+    \entry{ImagingPsoasSign2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dda75d07ab35b43e5d0c23b7668b7829}{%
+           family={Ledbetter},
+           familyi={L\bibinitperiod},
+           given={L.\bibnamedelimi N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=56a427636a940e9b6294e2697c95b0d3}{%
+           family={Salzman},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1123c933ecb6a1c8b993252b5ae6e04c}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{15704acb46b2870668cb02ad66b6b08e}
+      \strng{fullhash}{15704acb46b2870668cb02ad66b6b08e}
+      \strng{bibnamehash}{15704acb46b2870668cb02ad66b6b08e}
+      \strng{authorbibnamehash}{15704acb46b2870668cb02ad66b6b08e}
+      \strng{authornamehash}{15704acb46b2870668cb02ad66b6b08e}
+      \strng{authorfullhash}{15704acb46b2870668cb02ad66b6b08e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{BACKGROUND AND PURPOSE: Lumbar discitis-osteomyelitis has imaging characteristics than can overlap with noninfectious causes of back pain. Our aim was to determine the added accuracy of psoas musculature T2 hyperintensity (imaging psoas sign) in the MR imaging diagnosis of lumbar discitis-osteomyelitis. MATERIALS AND METHODS: This retrospective case-control study evaluated lumbar spine MR imaging examinations, during a 30-month period, that were requested for the evaluation of discitis-osteomyelitis. Of this pool, 50 age-matched control patients were compared with 51 biopsy-proved or clinically diagnosed patients with discitis-osteomyelitis. Two reviewers, blinded to the clinical information, assessed the randomly organized MR imaging examinations for abnormalities of the psoas musculature, vertebral bodies, discs, and epidural space. RESULTS: Psoas T2 hyperintensity demonstrated a high sensitivity (92.1\%; 95\% CI, 80\%-97.4\%) and specificity (92\%; 95\% CI, 80\%-97.4\%), high positive likelihood ratio (11.5; 95\% CI, 4.5-29.6), low negative likelihood ratio (0.09; 95\% CI, 0.03-0.20), and individual area under the receiver operating characteristic curve of 0.92; 95\% CI, 0.87-0.97. Identification of psoas T2 abnormality significantly improved (P = .02) the diagnostic accuracy of discitis-osteomyelitis in noncontrast examinations from an area under the receiver operator characteristic curve of the established variables (vertebral body T2 and T1 signal, endplate integrity, disc T2 signal, and disc height) from 0.93 (95\% CI, 0.88-0.98) to 0.98 (95\% CI, 0.96-1.0). Psoas T2 abnormalities also had the highest interobserver reliability with a {$\kappa$} coefficient of 0.78 (substantial agreement). CONCLUSIONS: Psoas T2 hyperintensity, the imaging psoas sign, is highly correlated with discitis-osteomyelitis. T2 hyperintensity in the psoas musculature, particularly when there is clinical suspicion of spinal infection, improves the diagnostic accuracy of discitis-osteomyelitis compared with routine noncontrast variables alone.}
+      \field{issn}{1936-959X}
+      \field{journaltitle}{AJNR Am J Neuroradiol}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{Imaging {{Psoas Sign}} in {{Lumbar Spinal Infections}}}
+      \field{title}{Imaging {{Psoas Sign}} in {{Lumbar Spinal Infections}}: {{Evaluation}} of {{Diagnostic Accuracy}} and {{Comparison}} with {{Established Imaging Characteristics}}}
+      \field{volume}{37}
+      \field{year}{2016}
+      \field{pages}{736\bibrangedash 741}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.3174/ajnr.A4571
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/IC3BFI8U/Ledbetter et al_2016_Imaging Psoas Sign in Lumbar Spinal Infections.pdf
+      \endverb
+      \keyw{Adolescent,Adult,Aged,Aged 80 and over,Case-Control Studies,Discitis,Epidural Space,Female,Humans,Image Processing Computer-Assisted,Low Back Pain,Lumbosacral Region,Magnetic Resonance Imaging,Male,Middle Aged,notion,Observer Variation,Osteomyelitis,Psoas Muscles,Reproducibility of Results,Retrospective Studies,Spinal Cord Diseases,Spine,Young Adult}
+    \endentry
+    \entry{ComparisonDiagnosticValue2017}{article}{}
+      \name{author}{10}{}{%
+        {{hash=b59cef733e771478938b988f9981da5c}{%
+           family={Smids},
+           familyi={S\bibinitperiod},
+           given={Carolijn},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1d661168f5772228a3abe560fb6e5d2d}{%
+           family={Kouijzer},
+           familyi={K\bibinitperiod},
+           given={Ilse\bibnamedelimb J.\bibnamedelimi E.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e5a7f17f12b2c9120df4198c67317ce3}{%
+           family={Vos},
+           familyi={V\bibinitperiod},
+           given={Fidel\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a3ce0db7569f4b3cc2714084d1735e37}{%
+           family={Sprong},
+           familyi={S\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4a400f6eb57a6a67de1d3f48d972774a}{%
+           family={Hosman},
+           familyi={H\bibinitperiod},
+           given={Allard\bibnamedelimb J.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=353d257387abb0ce4e485971f379386e}{%
+           family={{de Rooy}},
+           familyi={d\bibinitperiod},
+           given={Jacky\bibnamedelimb W.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d3efa8077f512ab20b20d03ee354ec31}{%
+           family={Aarntzen},
+           familyi={A\bibinitperiod},
+           given={Erik\bibnamedelimb H.\bibnamedelimi J.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=486706e0b5e0577a97c993a3c02ea107}{%
+           family={{de Geus-Oei}},
+           familyi={d\bibinitperiod},
+           given={Lioe-Fee},
+           giveni={L\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=15a11ac6608bea06f0fbcde05728a356}{%
+           family={Oyen},
+           familyi={O\bibinitperiod},
+           given={Wim\bibnamedelimb J.\bibnamedelimi G.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b660eeae26c0bcf5aa18f87fc270defc}{%
+           family={{Bleeker-Rovers}},
+           familyi={B\bibinitperiod},
+           given={Chantal\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9dc6e4ee058f34144b5df87247cf9d9}
+      \strng{fullhash}{8f5691ea489b2b2299a1b9433eddd07e}
+      \strng{bibnamehash}{8f5691ea489b2b2299a1b9433eddd07e}
+      \strng{authorbibnamehash}{8f5691ea489b2b2299a1b9433eddd07e}
+      \strng{authornamehash}{e9dc6e4ee058f34144b5df87247cf9d9}
+      \strng{authorfullhash}{8f5691ea489b2b2299a1b9433eddd07e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this study was to evaluate the diagnostic value of 18F-fluorodeoxyglucose (FDG) positron emission tomography and computed tomography (PET/CT scan) and magnetic resonance imaging (MRI) in diagnosing spondylodiscitis and its complications, such as epidural and paraspinal abscesses.}
+      \field{issn}{1439-0973}
+      \field{journaltitle}{Infection}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{A Comparison of the Diagnostic Value of {{MRI}} and {{18F-FDG-PET}}/{{CT}} in Suspected Spondylodiscitis}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{45}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{41\bibrangedash 49}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s15010-016-0914-y
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/MS5Z93M9/Smids et al_2017_A comparison of the diagnostic value of MRI and 18F-FDG-PET-CT in suspected.pdf
+      \endverb
+      \keyw{18F-FDG-PET/CT,Abscess,MRI,notion,Spondylodiscitis}
+    \endentry
+    \entry{DiagnosticPerformanceMultiDetector2022}{article}{}
+      \name{author}{25}{}{%
+        {{hash=e879824a0d4f5f8669a47e14bf7f62e8}{%
+           family={Negro},
+           familyi={N\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bdb196b6b65e540b99274896567a2df6}{%
+           family={Somma},
+           familyi={S\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9a5b43aa50af1d2cfc6b829140931603}{%
+           family={Tortora},
+           familyi={T\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1bec4c04a2e7bc0dca70dd614ea0d943}{%
+           family={Lugarà},
+           familyi={L\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=85b83055945fe5e40f2a7adebe94bab3}{%
+           family={Tamburrini},
+           familyi={T\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod}}}%
+        {{hash=081106e99a2cfec2a7e44c51ba4cae5a}{%
+           family={Coppola},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelima Gabriella},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=a74ae6eb461c7262fecdab11efb4a450}{%
+           family={Piscitelli},
+           familyi={P\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=447f2ee8fd6e97f24d5c668fb512bb0a}{%
+           family={Fasano},
+           familyi={F\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b44ef358479397bbc095151113177b08}{%
+           family={Sicignano},
+           familyi={S\bibinitperiod},
+           given={Carmine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1b07f7cbf58fb53ef0f8aada8d59abff}{%
+           family={Vargas},
+           familyi={V\bibinitperiod},
+           given={Ottavia},
+           giveni={O\bibinitperiod}}}%
+        {{hash=de9d769c861df7b05c11b418fe027404}{%
+           family={Pace},
+           familyi={P\bibinitperiod},
+           given={Gianvito},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b129fa7ed2a1479da022536435330d17}{%
+           family={Giardiello},
+           familyi={G\bibinitperiod},
+           given={Mariarosaria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=30956d1c5253e31caa810ee38537f624}{%
+           family={Iannuzzi},
+           familyi={I\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d6eab45c617a739a5b172300f35b1b09}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1e342b1df0ebdb598f00e36145b899a9}{%
+           family={De\bibnamedelima Simone},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Fiore},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8fbfb967a2226fb046638efc7a8685cb}{%
+           family={Catalano},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12d198c61c28794898aa351f36b7cc23}{%
+           family={Carbone},
+           familyi={C\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a05e10bf5da31d7fabe60f89874cc63e}{%
+           family={Rocco},
+           familyi={R\bibinitperiod},
+           given={Concetta},
+           giveni={C\bibinitperiod}}}%
+        {{hash=37c25e1c8d2854cdfdc8a4e786b887c9}{%
+           family={Saturnino},
+           familyi={S\bibinitperiod},
+           given={Pietro\bibnamedelima Paolo},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6181e9be6d89f9affcb4ae9e87bf5212}{%
+           family={Della\bibnamedelima Gatta},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e7ab53e9871e757a866cff5d920932b8}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=66581f5d2c1f27584370487a5f905af3}{%
+           family={Tortora},
+           familyi={T\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=95c25bbeec67c705d42a00a5b69383ab}{%
+           family={Gemini},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=54f54e1eaeb3b0522a2b0f65a342cc65}{%
+           family={Caranci},
+           familyi={C\bibinitperiod},
+           given={Ferdinando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9ac981667862a36a93b9f3f238c75ab1}{%
+           family={D'Agostino},
+           familyi={D\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{e545b3809e319c298f1de5865bab8deb}
+      \strng{fullhash}{0f2e6349f280a1d09b876db588835c4a}
+      \strng{bibnamehash}{0f2e6349f280a1d09b876db588835c4a}
+      \strng{authorbibnamehash}{0f2e6349f280a1d09b876db588835c4a}
+      \strng{authornamehash}{e545b3809e319c298f1de5865bab8deb}
+      \strng{authorfullhash}{0f2e6349f280a1d09b876db588835c4a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: The diagnosis of acute spondylodiscitis can be very difficult because clinical onset symptoms are highly variable. The reference examination is MRI, but very often the first diagnostic investigation performed is CT, given its high availability in the acute setting. CT allows rapid evaluation of other alternative diagnoses (e.g., fractures), but scarce literature is available to evaluate the accuracy of CT, and in particular of multi-detector computed tomography (MDCT), in the diagnosis of suspected spondylodiscitis. The aim of our study was to establish MDCT accuracy and how this diagnostic method could help doctors in the depiction of acute spondylodiscitis in an emergency situation by comparing the diagnostic performance of MDCT with MRI, which is the gold standard. Methods: We searched our radiological archive for all MRI examinations of patients who had been studied for a suspicion of acute spondylodiscitis in the period between January 2017 and January 2021 (n = 162). We included only patients who had undergone MDCT examination prior to MRI examination (n = 25). The overall diagnostic value of MDCT was estimated, using MRI as the gold standard. In particular, the aim of our study was to clarify the effectiveness of CT in radiological cases that require immediate intervention (stage of complications). Therefore, the radiologist, faced with a negative CT finding, can suggest an elective (not urgent) MRI with relative serenity and without therapeutic delays. Results: MDCT allowed identification of the presence of acute spondylodiscitis in 13 of 25 patients. Specificity and positive predictive value were 100\% for MDCT, while sensitivity and negative predictive value were 68\% and 50\%, respectively, achieving an overall accuracy of 76\%. In addition, MDCT allowed the identification of paravertebral abscesses (92\%), fairly pathognomonic lesions of spondylodiscitis pathology. Conclusions: The MDCT allows identification of the presence of acute spondylodiscitis in the Emergency Department (ED) with a satisfactory accuracy. In the case of a positive CT examination, this allows therapy to be started immediately and reduces complications. However, we suggest performing an elective MRI examination in negative cases in which pathological findings are hard to diagnose with CT alone.}
+      \field{issn}{2379-139X}
+      \field{journaltitle}{Tomography}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{The {{Diagnostic Performance}} of {{Multi-Detector Computed Tomography}} ({{MDCT}}) in {{Depiction}} of {{Acute Spondylodiscitis}} in an {{Emergency Department}}}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1895\bibrangedash 1904}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3390/tomography8040160
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/NV4LSJKT/Negro et al_2022_The Diagnostic Performance of Multi-Detector Computed Tomography (MDCT) in.pdf
+      \endverb
+      \keyw{magnetic resonance imaging (MRI),multi-detector computer tomography (MDCT),notion,spondylodiscitis}
+    \endentry
+    \entry{DegenerativeDiskDisease1988}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ed0a4cdd4da021427bf08201ecd7c984}{%
+           family={Modic},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=0252713e223cec4fb9bd8dc343c324ec}{%
+           family={Steinberg},
+           familyi={S\bibinitperiod},
+           given={P\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8b9f76aeba8a900186267d9ac7c89b61}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={J\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=35dd04f00ab078f04f4ca3472aaecf10}{%
+           family={Masaryk},
+           familyi={M\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ee974ad86579a48073dc0fa1bc26cb45}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={J\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Radiological Society of North America}%
+      }
+      \strng{namehash}{71e65cbbed704ae9b46b0aec8d10d467}
+      \strng{fullhash}{8949725cd1fd4470ff635fdcef1de7c6}
+      \strng{bibnamehash}{8949725cd1fd4470ff635fdcef1de7c6}
+      \strng{authorbibnamehash}{8949725cd1fd4470ff635fdcef1de7c6}
+      \strng{authornamehash}{71e65cbbed704ae9b46b0aec8d10d467}
+      \strng{authorfullhash}{8949725cd1fd4470ff635fdcef1de7c6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The authors reviewed magnetic resonance (MR) images of 474 consecutive patients referred for lumbar spine MR imaging. Type 1 changes (decreased signal intensity on T1-weighted spin-echo images and increased signal intensity on T2-weighted images) were identified in 20 patients (4\%) and type 2 (increased signal intensity on T1-weighted images and isointense or slightly increased signal intensity on T2-weighted images) in 77 patients (16\%). In all cases there was evidence of associated degenerative disk disease at the level of involvement. Histopathologic sections in three cases of type 1 change demonstrated disruption and fissuring of the end plates and vascularized fibrous tissue, while in three cases of type 2 change they demonstrated yellow marrow replacement. In addition, 16 patients with end-plate changes documented with MR were studied longitudinally. Type 1 changes in five of six patients converted to a type 2 pattern in 14 months to 3 years. Type 2 changes in ten patients remained stable over a 2-3-year period. These signal intensity changes appear to reflect a spectrum of vertebral body marrow changes associated with degenerative disk disease.}
+      \field{issn}{0033-8419}
+      \field{journaltitle}{Radiology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Degenerative Disk Disease}
+      \field{title}{Degenerative Disk Disease: Assessment of Changes in Vertebral Body Marrow with {{MR}} Imaging.}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{166}
+      \field{year}{1988}
+      \field{urldateera}{ce}
+      \field{pages}{193\bibrangedash 199}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1148/radiology.166.1.3336678
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/VHFJLWVL/Modic et al_1988_Degenerative disk disease.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{DiffusionweightedMRIClaw2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6f1fbdbecee7e71d3afb334061ad08e8}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0af675d7aaba91408014f01548c653b9}{%
+           family={Poplawski},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=93f98abcc59a494e9bb27ac68fda0c21}{%
+           family={Pawha},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fef3786855cc3c3d3c6c0cb29c3115b2}{%
+           family={Naidich},
+           familyi={N\bibinitperiod},
+           given={T.\bibnamedelimi P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fb204d0aee67c3f2ce4c9b571f8e31bf}{%
+           family={Tanenbaum},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e41ad738c5e3a92f6631aead678e52f0}
+      \strng{fullhash}{dd4233baf4928d2c129c2ae849400492}
+      \strng{bibnamehash}{dd4233baf4928d2c129c2ae849400492}
+      \strng{authorbibnamehash}{dd4233baf4928d2c129c2ae849400492}
+      \strng{authornamehash}{e41ad738c5e3a92f6631aead678e52f0}
+      \strng{authorfullhash}{dd4233baf4928d2c129c2ae849400492}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND AND PURPOSE: Modic type 1 degenerative signal changes can mimic/suggest infection, leading to additional costly and sometimes invasive investigations. This retrospective study analyzes the utility and accuracy of a novel, diffusion-weighted "claw sign" for distinguishing symptomatic type 1 degeneration from vertebral diskitis/osteomyelitis. MATERIALS AND METHODS: Seventy-three patients with imaging features resembling type 1 degeneration were classified clinically into 3 groups: true degenerative type 1 changes (n = 33), confirmed diskitis/osteomyelitis (n = 20), and radiologically suspected infection later disproved clinically (n = 20). A claw sign was defined on DWI as well-marginated, linear, regions of high signal situated within the adjacent vertebral bodies at the interface of normal with abnormal marrow. Two blinded neuroradiologists independently rated the presence of the claw sign, along with T2 disk signal and disk and endplate enhancement to determine the utility of each for identifying degeneration versus infection. RESULTS: When the 2 neuroradiologists identified a definite claw, 38 of 39 patients (97\%) and 29 of 29 patients (100\%) proved to be infection-free. When the readers identified a probable claw, 14 of 14 patients (100\%) and 16 of 19 patients (84\%) proved to be infection-free. Conversely, when the readers identified the absence of claw sign (diffuse DWI pattern), there was proved infection in 17 of 17 cases (100\%) and 13 of 14 cases (93\%). CONCLUSIONS: In patients with type 1 signal changes of the vertebral disk space, a claw sign is highly suggestive of degeneration and its absence strongly suggests diskitis/osteomyelitis.}
+      \field{issn}{1936-959X}
+      \field{journaltitle}{AJNR Am J Neuroradiol}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Diffusion-Weighted {{MRI}} "Claw Sign" Improves Differentiation of Infectious from Degenerative Modic Type 1 Signal Changes of the Spine}
+      \field{volume}{35}
+      \field{year}{2014}
+      \field{pages}{1647\bibrangedash 1652}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.3174/ajnr.A3948
+      \endverb
+      \verb{file}
+      \verb /Users/nicolas/Zotero/storage/LYPLXDKF/Patel et al. - 2014 - Diffusion-weighted MRI claw sign improves differentiation of infectious from degenerative modic ty.pdf
+      \endverb
+      \keyw{Adult,Aged,Aged 80 and over,Diagnosis Differential,Diffusion Magnetic Resonance Imaging,Discitis,Female,Humans,Intervertebral Disc Degeneration,Lumbar Vertebrae,Male,Middle Aged,notion,Osteomyelitis,Retrospective Studies}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

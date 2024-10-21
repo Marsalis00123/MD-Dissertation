@@ -1,0 +1,17 @@
+Characteristic,Test Type,p-value,Significant
+fracturi,Fisher's exact test,0.24601063829787229,No
+colecții,Chi-square test,0.3628058921975613,No
+gadolinofilie,Fisher's exact test,0.6412728113699435,No
+hdl,Fisher's exact test,0.6829852751641361,No
+eroziuni,Chi-square test,1.0,No
+tasări,Chi-square test,1.0,No
+edem,Chi-square test,1.0,No
+stenoză,Chi-square test,1.0,No
+amprentare_medulară,Fisher's exact test,1.0,No
+osteofite,Fisher's exact test,1.0,No
+deshidratări_discale,Fisher's exact test,1.0,No
+iodofilie,Fisher's exact test,1.0,No
+hemangioame,Fisher's exact test,1.0,No
+abces,Fisher's exact test,1.0,No
+anterolistezis,Fisher's exact test,1.0,No
+cardiomegalie,Fisher's exact test,1.0,No

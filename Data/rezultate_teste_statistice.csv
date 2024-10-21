@@ -1,0 +1,17 @@
+Characteristic,Test Type,p-value,Significant,Conservativ %,Chirurgical %
+fracturi,Test Exact Fisher's,0.24601063829787234,No,6.25,0.0
+colecții,Testul Chi-Pătrat,0.3628058921975613,No,25.0,27.083333333333332
+gadolinofilie,Test Exact Fisher's,0.6412728113699436,No,4.166666666666666,6.25
+hdl,Test Exact Fisher's,0.6829852751641363,No,6.25,8.333333333333332
+eroziuni,Testul Chi-Pătrat,1.0,No,41.66666666666667,33.33333333333333
+tasări,Testul Chi-Pătrat,1.0,No,12.5,10.416666666666668
+edem,Testul Chi-Pătrat,1.0,No,43.75,33.33333333333333
+stenoză,Testul Chi-Pătrat,1.0,No,12.5,10.416666666666668
+amprentare_medulară,Test Exact Fisher's,1.0,No,4.166666666666666,4.166666666666666
+osteofite,Test Exact Fisher's,1.0,No,6.25,4.166666666666666
+deshidratări_discale,Test Exact Fisher's,1.0,No,2.083333333333333,2.083333333333333
+iodofilie,Test Exact Fisher's,1.0,No,2.083333333333333,0.0
+hemangioame,Test Exact Fisher's,1.0,No,4.166666666666666,4.166666666666666
+abces,Test Exact Fisher's,1.0,No,6.25,4.166666666666666
+anterolistezis,Test Exact Fisher's,1.0,No,2.083333333333333,0.0
+cardiomegalie,Test Exact Fisher's,1.0,No,4.166666666666666,2.083333333333333
