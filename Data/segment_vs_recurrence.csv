@@ -1,0 +1,25 @@
+Segment,Test Type,p-value,Significant
+l3,Fisher's exact test,1.0,No
+l4,Fisher's exact test,1.0,No
+l5,Fisher's exact test,0.7266184576074424,No
+,Chi-square test,1.0,No
+s1,Fisher's exact test,0.41431892152008565,No
+t1,Fisher's exact test,0.6613742343778449,No
+t2,Fisher's exact test,1.0,No
+t3,Fisher's exact test,1.0,No
+t4,Fisher's exact test,1.0,No
+t9,Fisher's exact test,1.0,No
+t10,Fisher's exact test,1.0,No
+c5,Fisher's exact test,1.0,No
+c6,Fisher's exact test,1.0,No
+c7,Fisher's exact test,1.0,No
+t5,Fisher's exact test,0.5122571692876965,No
+t6,Fisher's exact test,1.0,No
+l2,Fisher's exact test,1.0,No
+t11,Fisher's exact test,1.0,No
+t12,Fisher's exact test,0.5122571692876965,No
+c4,Fisher's exact test,1.0,No
+l1,Fisher's exact test,1.0,No
+t7-t8,Fisher's exact test,1.0,No
+t7,Fisher's exact test,0.18709528214616095,No
+t8,Fisher's exact test,0.18709528214616095,No
