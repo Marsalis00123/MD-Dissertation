@@ -109,7 +109,7 @@ Medicina nucleară oferă o acuratețe diagnostică ridicată în evaluarea spon
 Tehnicile de medicină nucleară, cum ar fi FDG-PET/CT, pot fi mai costisitoare și mai puțin disponibile decât metodele imagistice convenționale, cum ar fi RM-ul sau CT-ul. Deși oferă avantaje semnificative în diagnosticul precis al spondilodiscitei, costurile ridicate și disponibilitatea limitată pot restricționa utilizarea lor largă în practica clinică @ImagingAssessmentSpine2024.
 
 #figure(
-  image("Files/nuc-cervical.jpg"),
+  image("Files/nuc-cervical.jpg", width: 80%),
   caption: [Osteomielită la nivelul coloanei cervicale. (A și B) Imaginea sagitală CT (A) arată modificări distructive la nivelul C6–C7 (săgeată), corespunzând unei zone de captare intensă a radiofarmaceuticului #super[67]Ga pe imaginea sagitală SPECT (B) @RadionuclideImagingOsteomyelitis2015.
   ],
   supplement: "Figura",
