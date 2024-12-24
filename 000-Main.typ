@@ -1,7 +1,8 @@
 // Antet Typst ↓
 //#set par(justify: true)
 //#set page(margin: 1.75in)
-
+#import "@preview/codly:1.1.1": *
+#import "@preview/codly-languages:0.1.1": *
 // Pagina și limba
 #set text(lang: "ro")
 #set par(leading: 1.5em, justify: true)
@@ -16,12 +17,26 @@
 //show figure.where(kind: table): set figure(placement: top)
 //#show figure.caption.where(kind: "table"): smallcaps
 #show figure.where(kind: "table"): set figure.caption(position: top)
-#show figure.where(kind: "table"): set text(size: 12pt)
+#show figure.where(kind: "table"): set text(size: 11pt)
 #show figure.where(kind: "table"): set par(leading: 1em)
 #show figure.where(kind: "table"): set figure(supplement: [Tabelul],numbering: "I")
 
 #show table.cell.where(y: 0): set text(weight: "medium")
 #show table.cell.where(x: 1): set text(weight: "bold")
+// Codly
+#show: codly-init.with()
+#codly(zebra-fill: none)
+#codly(number-format: none)
+#codly(stroke: 1pt + rgb("#3776ab"))
+
+#codly(
+  languages: (
+    python: (name: "Python", icon: "🐍", color: rgb("#ffd343")),
+  )
+)
+
+
+
 
 #let frame(stroke) = (x, y) => (
   left: if x > 0 { 0pt } else { stroke },
@@ -80,7 +95,20 @@
 
 
 #pagebreak(weak: true)
-= Partea specială
+// = Partea specială
+#include "041-includere-excludere.typ"
+#include "042-Metodele-statistice-folosite-în-studiu.typ"
+#include "043-Programul-de-analiză-a-datelor.typ"
+#include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
+
+// = Rezultate
+#include "051-Analiza-statistică-descriptivă.typ"
+#include "052-Analiza-comorbidităților.typ"
+#include "053-Analiza-impactului-rapoarterelor-a-a.typ"
+#include "054-Corelația-între-imagistică-și-evoluția-clinică.typ"
+#include "055-Influența-segmentului-afectat.typ"
+#include "056-Analiza complicațiilor-post-tratament.typ"
+
 
 
 
