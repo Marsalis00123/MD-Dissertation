@@ -5,8 +5,8 @@ Criteriile de includere au fost concepute pentru a defini cu precizie populația
 #figure( 
   table(
   columns: (1fr, 1fr),
-  inset: 10pt,
-  align: horizon,
+  inset: 8pt,
+  align: left,
   
   table.header(
     [*Criterii de includere*], [*Criterii de excludere*]
@@ -23,7 +23,8 @@ Criteriile de includere au fost concepute pentru a defini cu precizie populația
   [Pacienți care nu au urmat protocolul de tratament prescris.],
 ), kind: "table",
 supplement: "Tabelul",
-caption: "Criterii de includere și excludere pentru pacienții cu spondilodiscită incluși în studiu."
+caption: "Criterii de includere și excludere pentru pacienții cu spondilodiscită incluși în studiu.",
+
 ) <tbl-inc_exc>
 
 

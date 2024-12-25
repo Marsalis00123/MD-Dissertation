@@ -207,7 +207,8 @@ Istoricul de hemodializă cronică și localizarea predominant cervicală pot aj
   image("Files/rm-metastaze.jpg",width: 90%),
   caption: [Imagistica RM a coloanei cervicale la o pacientă de 75 de ani. *(A)* Imagine sagitală ponderată T1, evidențiind infiltrări anormale ale măduvei osoase (săgeți) în vertebrele cervicale continue, fără distrugere semnificativă sau colaps al corpurilor vertebrale. *(B)* Imagine sagitală  ponderată T2, care arată spațiul discal intervertebral relativ păstrat (vârf de săgeată) și pierderea definiției plăcilor terminale. Intensitatea semnalului discurilor intervertebrale este ușor scăzută în comparație cu segmentele neafectate. *(C)* Imagine sagitală  ponderată T1 cu grăsimea saturată și contrast, care arată captarea contrastului la nivelul infiltrărilor măduvei osoase și modificări infiltrative ale țesuturilor moi paraspinale (săgeți goale). Nu se observă captare semnificativă a contrastului la nivelul discului intervertebral @ContiguousSpinalMetastasis2015. ],
   supplement: "Figura",
-  kind: "AA"
+  kind: "AA",
+ gap: 1em
 )<rm-metastaze>
 
 Diagnosticul diferențial al spondilodiscitei necesită o evaluare atentă a aspectelor imagistice în corelație cu contextul clinic al pacientului. Utilizarea tehnicilor imagistice avansate, în special IRM cu secvențe specializate, poate oferi informații cruciale pentru diferențierea acestor entități. În cazurile incerte, biopsia ghidată imagistic poate fi necesară pentru stabilirea unui diagnostic definitiv @FollowMRImagingPatients2007@DegenerativeDiskDisease1988.
