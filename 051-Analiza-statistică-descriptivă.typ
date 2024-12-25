@@ -79,7 +79,7 @@ Reprezentate grafic sunt frecvența modalităților imagistice în @img-freq și
 
 #figure(
   image("Files/img-freq.png", width: 80%),
-  caption: [WIP
+  caption: [Distribuția modalităților de imagistică utilizate în diagnosticare
   ],
   supplement: "Figura",
   kind: "AA"
@@ -87,7 +87,7 @@ Reprezentate grafic sunt frecvența modalităților imagistice în @img-freq și
 
 #figure(
   image("Files/freq-cara.png", width: 80%),
-  caption: [WIP
+  caption: [Frecvența caracteristicilor imagistice observate în investigații
   ],
   supplement: "Figura",
   kind: "AA"
@@ -95,7 +95,7 @@ Reprezentate grafic sunt frecvența modalităților imagistice în @img-freq și
 
 #figure(
   image("Files/treat-cons-sur.png", width: 80%),
-  caption: [WIP
+  caption: [Distribuția abordărilor terapeutice: tratament conservator versus chirurgical
   ],
   supplement: "Figura",
   kind: "AA"

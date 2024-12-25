@@ -16,27 +16,21 @@ This repository serves as a display for:
 
 It is intended for **professors**, **doctors**, and **students** interested in this field.
 
----
 
 ## Repository Structure  
 
-- **Dissertation/**  
+- **Main Folder**  
   - Contains the dissertation written in Typst, split into chapter-specific files.  
-  - Includes a legacy `Tex/` folder with migrated LaTeX files.  
+  - Includes a legacy `Tex/` folder with old LaTeX files, before the migration to Typst.  
 - **Data/**  
   - Jupyter notebooks and Python scripts for statistical analysis.  
 - **Files/**  
-  - Figures used in the dissertation, including placeholders like `Files/rm-modic-vs-ds.jpg`.  
-
----
+  - Images used in the dissertation.  
 
 ## Features  
 
 - **Real-World Analysis**: Statistical evaluation of anonymized data from a teaching hospital.  
 - **Interactive Code**: Analysis conducted using Python 🐍 and Jupyter Notebooks for reproducibility.  
-- **Legacy to Modern Transition**: Migration from LaTeX to Typst for streamlined formatting.  
-
----
 
 ## Acknowledgments  
 
@@ -46,13 +40,9 @@ Special thanks to my academic coordinators and mentors:
 - **Coordonator**: Șef de disciplină, Prof. Dr. Iana Gheorghe.  
 - **Îndrumător**: Ș.L. Dr. Marinescu Andreea,  A.U. Dr. Cîlțea Roxana.  
 
----
-
 ## License  
 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 
-
----
 
 ## How to Cite  
 
@@ -69,13 +59,8 @@ Available at: [https://github.com/Marsalis00123/MD-Dissertation]
 
 🚧 **Work in Progress**:  (`Files/rm-modic-vs-ds.jpg`).  
 
----
-
 ## Links  
 
 🚧 **Work in Progress**: Additional resources and links will be added soon.  
 
----
-
 Feel free to share feedback, suggest improvements, or discuss the findings.  
-
