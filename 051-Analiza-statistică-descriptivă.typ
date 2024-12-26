@@ -44,8 +44,8 @@ caption: "Statistica descriptivă a vârstelor pacienților cu spondilodiscită 
 )<tbl-gen-d>
 
 #figure(
-  image("Files/gen-freq.png", width: 80%),
-  caption: [WIP
+  image("Files/gen-freq.png", width: 70%),
+  caption: [Distribuția genurilor incluse în studiu
   ],
   supplement: "Figura",
   kind: "AA"
