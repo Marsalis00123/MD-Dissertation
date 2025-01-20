@@ -7,12 +7,12 @@
 // Pagina și limba
 #set text(lang: "ro")
 #set par(leading: 1.4em, justify: true)
-// #set text(font: "New York small", size: 12pt, weight: 300)
+#set text(font: "New York small", size: 12pt, weight: 300)
 // #set text(font: "Georgia", size: 12pt)
 // #set text(font: "MinionPro", size: 12pt)
 // #set text(font: "Times New Roman", size: 12pt)
 // #set text(font: "SF Pro Display", size: 12pt, weight: 350)
-#set text(font: "Charter", size: 11pt)
+//#set text(font: "Charter", size: 11pt)
 // #set text(font: , size: 12pt)
 #set page(paper: "a4", numbering: "1", number-align: center)
 
@@ -60,14 +60,14 @@
 #show figure.where(kind: "AA"): set text(size: 9pt)
 #show figure.where(kind: "AA"): set par(leading: 1em)
   // set par(leading: 1em)
-  
+
 
 // #show figure.where(kind: image): set figure(placement: top)
 // #show figure.where(kind: "raw"): set figure(supplement: [Figura], numbering: "1")
 //#show figure.caption: set text(size: 11pt)
 
 // heading custom name before number
-// 
+//
 //
 // #show: tpl.with(
   //bibliography: bibliography("My_Library.bib", style: "vancouver"),
