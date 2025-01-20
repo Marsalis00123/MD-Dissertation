@@ -1,6 +1,6 @@
 == Analiza Impactului Caracteristicilor Imagistice Asupra Evoluției Pacienților cu Spondilodiscită
 
-Analiza statistică a asociat diverse caracteristici imagistice cu evoluția pacienților, utilizând teste Fisher și Chi-square. În continuare, discutăm rezultatele obținute și p-value-urile corespunzătoare, conform tabelului @tbl-evl.
+Analiza statistică a asociat diverse caracteristici imagistice cu evoluția pacienților, utilizând teste Fisher și Chi-square. În continuare, discutăm rezultatele obținute și valorile p corespunzătoare, conform tabelului @tbl-evl.
 
 === Rezultatele testelor statistice
 

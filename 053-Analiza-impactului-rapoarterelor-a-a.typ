@@ -11,7 +11,7 @@ Datele prezentate în @tratament-caracteristici reflectă procentul de pacienți
 
 == Caracteristicile imagistice și tratamentele asociate
 
-- *Edem*: A fost observat la 43.8% din pacienți tratați conservator și la 33.3% din cei tratați chirurgical. Edemul, în mod frecvent asociat cu inflamația, a impus decizii mai conservatoare pentru majoritatea pacienților.
+- *Edem*: La 43.8% din pacienți tratați conservator și la 33.3% din cei tratați chirurgical s-a observat că edemul, în mod frecvent asociat cu inflamația, a impus decizii mai conservatoare pentru majoritatea pacienților.
 - *Eroziuni*: Caracteristică observată la 41.7% dintre pacienți cu tratament conservator și 33.3% la cei chirurgicali. Eroziunile osoase pot indica progresia bolii, însă majoritatea cazurilor au fost gestionate conservator.
 - *Colecții*: Au impus intervenții chirurgicale în 27.1% dintre cazuri, comparativ cu 25% gestionate conservator. Acest aspect sugerează o ușoară preferință pentru tratamentele chirurgicale în prezența colecțiilor, probabil pentru drenajul acestora.
 - *Tasări*: Au fost observate la 12.5% dintre pacienții tratați chirurgical și la 10.4% din cei tratați conservator, indicând o intervenție chirurgicală mai frecventă în cazurile cu tasări vertebrale.
@@ -20,6 +20,7 @@ Datele prezentate în @tratament-caracteristici reflectă procentul de pacienți
 Alte caracteristici, precum *fracturile*, *abscesul*, *cardiomegalia*, *osteofitele*, au fost distribuite mai uniform între tratamentele chirurgicale și conservatoare, fără diferențe majore.
 
 == Testele statistice
+ *TREBUIE MODIFICAT CU FICHER + Scos valorile p = 1*
 
 Testele statistice asociate fiecărei caracteristici imagistice, incluzând Chi-square și Fisher's exact test, au indicat valori *p* mari (p > 0.05), ceea ce sugerează că nu există diferențe semnificative statistic între cele două grupuri terapeutice în funcție de aceste caracteristici imagistice specifice.
 
