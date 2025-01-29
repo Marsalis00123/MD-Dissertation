@@ -7,12 +7,12 @@
 // Pagina și limba
 #set text(lang: "ro")
 #set par(leading: 1.4em, justify: true)
-#set text(font: "New York small", size: 12pt, weight: 300)
+// #set text(font: "New York small", size: 12pt, weight: 300)
 // #set text(font: "Georgia", size: 12pt)
 // #set text(font: "MinionPro", size: 12pt)
 // #set text(font: "Times New Roman", size: 12pt)
 // #set text(font: "SF Pro Display", size: 12pt, weight: 350)
-//#set text(font: "Charter", size: 11pt)
+#set text(font: "Charter", size: 11pt)
 // #set text(font: , size: 12pt)
 #set page(paper: "a4", numbering: "1", number-align: center)
 
@@ -29,6 +29,19 @@
 #show figure.where(kind: "table"): set text(size: 9pt)
 #show figure.where(kind: "table"): set par(leading: 1em)
 #show figure.where(kind: "table"): set figure(supplement: [Tabelul],numbering: "I", gap: 1em)
+// Equation styling and numbering
+#let equation-counter = counter("equation")
+#equation-counter.update(1)
+#show math.equation.where(block: true): equation => {
+  set block(above: 1.5em, below: 1.5em)
+  grid(
+    columns: (1fr, auto),
+    gutter: 2em,
+    equation,
+    [(#equation-counter.display())]
+  )
+  equation-counter.step()
+}
 
 //#show table.cell.where(y: 0): set text(weight: "medium")
 //#show table.cell.where(x: 1): set text(weight: "bold")
@@ -109,8 +122,8 @@
 #include "042-Metodele-statistice-folosite-în-studiu.typ"
 #pagebreak(weak: true)
 #include "043-Programul-de-analiză-a-datelor.typ"
-#pagebreak(weak: true)
-#include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
+// #pagebreak(weak: true)
+// #include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
 #pagebreak(weak: true)
 
 // = Rezultate
@@ -119,38 +132,40 @@
 #include "052-Analiza-comorbidităților.typ"
 #pagebreak(weak: true)
 #include "053-Analiza-impactului-rapoarterelor-a-a.typ"
-#pagebreak(weak: true)
-#include "054-Corelația-între-imagistică-și-evoluția-clinică.typ"
-#pagebreak(weak: true)
-#include "055-Influența-segmentului-afectat.typ"
-#pagebreak(weak: true)
-#include "056-Analiza complicațiilor-post-tratament.typ"
+// #pagebreak(weak: true)
+// #include "054-Corelația-între-imagistică-și-evoluția-clinică.typ"
+// #pagebreak(weak: true)
+// #include "054-Influența-segmentului-afectat.typ"
+// #pagebreak(weak: true)
+// #include "056-Analiza complicațiilor-post-tratament.typ"
 #pagebreak(weak: true)
 
 // = Interpretarea datelor/discuții
-#include "061-D-statistică-descriptivă.typ"
+#include "061-Analiza-statistică-descriptivă.typ"
 #pagebreak(weak: true)
-#include "062-Comorbidități.typ"
+#include "062-Analiza-comorbidităților.typ"
 #pagebreak(weak: true)
-#include "063-Raportul-asupra-deciziilor-medicale.typ"
+#include "063-Analiza-impactului-rapoarterelor-a-a.typ"
+// #pagebreak(weak: true)
+// #include "064-Corelația-între-imagistică-și-evoluția-clinică.typ"
+// #pagebreak(weak: true)
+// #include "064-Influența-segmentului-afectat.typ"
+// #pagebreak(weak: true)
+// #include "066-Analiza complicațiilor-post-tratament.typ"
 #pagebreak(weak: true)
-#include "064-Evoluția-clinică.typ"
-#pagebreak(weak: true)
-#include "065-Influența-segementului-afectat.typ"
-#pagebreak(weak: true)
-#include "066-Complicațiile-post-tratament.typ"
-#pagebreak(weak: true)
-
-// = Studii de caz
-#include "071-Studii-de-caz.typ"
+#include "064-Considerente-etice-limitări.typ"
 #pagebreak(weak: true)
 
-// = Direcții viitoare
-#include "081-Direcții-Viitoare.typ"
-#pagebreak(weak: true)
+// // = Studii de caz
+// #include "071-Studii-de-caz.typ"
+// #pagebreak(weak: true)
+
+// // = Direcții viitoare
+// #include "081-Direcții-Viitoare.typ"
+// #pagebreak(weak: true)
 
 // = Concluzii
-#include "091-Concluzii.typ"
+#include "999-Concluzii.typ"
 
 
 
