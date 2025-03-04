@@ -1,7 +1,7 @@
 = Metodologie
 == Criterii de Includere și Excludere
 
-Criteriile de includere au fost concepute pentru a defini cu precizie populația de studiu. Acestea au cuprins: diagnosticul confirmat de spondilodiscită, validat prin metode imagistice avansate sau examinare histopatologică; vârsta adultă, definită ca fiind de 18 ani sau mai mult la momentul diagnosticului; existența unei documentații medicale comprehensive, incluzând rapoarte imagistice detaliate, note clinice complete și rezultate ale analizelor de laborator relevante; administrarea unui tratament specific pentru spondilodiscită, fie antibiotic, fie chirurgical; și încadrarea în perioada de studiu definită, respectiv pacienți externați între 1 ianuarie 2023 și 22 iulie 2024. Criteriile de includere și excludere sunt prezentate succint în @tbl-inc_exc.
+Criteriile de includere au fost concepute pentru a defini cu precizie populația de studiu. Acestea au cuprins: diagnosticul confirmat de spondilodiscită, validat prin metode imagistice avansate sau examinare histopatologică; vârsta adultă, definită ca fiind de 18 ani sau mai mult la momentul diagnosticului; existența unei documentații medicale comprehensive, incluzând rapoarte imagistice detaliate, note clinice complete și rezultate ale analizelor de laborator relevante; administrarea unui tratament specific pentru spondilodiscită, fie conservator, fie chirurgical; și încadrarea în perioada de studiu definită, respectiv pacienți externați între 1 ianuarie 2023 și 22 iulie 2024. Criteriile de includere și excludere sunt prezentate succint în @tbl-inc_exc.
 #figure( 
   table(
   columns: (1fr, 1fr),
