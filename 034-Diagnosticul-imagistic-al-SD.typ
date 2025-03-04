@@ -57,8 +57,8 @@ Cu administrare de contrast, CT poate arăta priză de contrast la nivelul discu
 #figure(
   image("Files/ct-cervical-erosion.jpg",width: 90%),
   caption: [Imagini de CT cervical în reconstrucție sagitală și axială, evidențiind complicațiile perforației esofagiene.
-(Stânga) Reconstrucția sagitală în fereastră de os NECT arată un caz complicat de perforație esofagiană (după iradiere cervicală și strictură esofagiană), cu formarea unei fistule spre discul intervertebral, asociată cu osteomielită vertebrală.
-(Dreapta) Reconstrucția axială NECT (fereastră osoasă) evidențiază distrucția litică a corpului vertebral C7, cu prezența de aer extinzându-se de la marginea posterioară a lumenului esofagian spre discul intervertebral @2015572. ],
+(Stânga) Reconstrucția sagitală în fereastră de os arată un caz complicat de perforație esofagiană (după iradiere cervicală și strictură esofagiană), cu formarea unei fistule spre discul intervertebral, asociată cu osteomielită vertebrală.
+(Dreapta) Reconstrucția axială evidențiază distrucția litică a corpului vertebral C7, cu prezența de aer extinzându-se de la marginea posterioară a lumenului esofagian spre discul intervertebral @2015572. ],
   supplement: "Figura",
   kind: "AA"
 )<ct-cervical-erosion>
@@ -66,7 +66,7 @@ Cu administrare de contrast, CT poate arăta priză de contrast la nivelul discu
 
 === Aspecte IRM
 
-Imagistica prin rezonanță magnetică (IRM) este metoda de elecție pentru diagnosticul spondilodiscitei, oferind o sensibilitate de 96%, specificitate de 92% și acuratețe de 94% @DegenerativeDiskDisease1988. Principalele aspecte IRM sunt reprezentate în @IRM-comparativ-general și acestea includ:
+Imagistica IRM este metoda de elecție pentru diagnosticul spondilodiscitei, oferind o sensibilitate de 96%, specificitate de 92% și acuratețe de 94% @DegenerativeDiskDisease1988. Principalele aspecte IRM sunt reprezentate în @IRM-comparativ-general și acestea includ:
 
 + Modificări ale spațiului discal:
    - Hiposemnal pe secvențele ponderate T1
@@ -90,7 +90,7 @@ Imagistica prin rezonanță magnetică (IRM) este metoda de elecție pentru diag
    - Acut: Corpuri vertebrale, plăci terminale și discuri în hipersemnal
    - Cronic: Hiposemnal
 
-Este important de menționat că urmărirea imagistică prin IRM nu a evidențiat o corelație directă între modificările imagistice și statusul clinic al pacienților. În general, se observă o diminuare a inflamației paraspinale și a prizei de contrast epidurale comparativ cu examinarea inițială, în timp ce modificările de la nivelul corpului vertebral, spațiului discal și edemul medular pot rămâne echivalente sau chiar să se agraveze @FollowMRImagingPatients2007.
+În timp ce boala progresează, se observă o diminuare a inflamației paraspinale și a prizei de contrast epidurale comparativ cu examinarea inițială, în timp ce modificările de la nivelul corpului vertebral, spațiului discal și edemul medular pot rămâne echivalente sau chiar să se agraveze. Este important de menționat că urmărirea imagistică prin IRM nu a evidențiat o corelație directă între modificările imagistice și statusul clinic al pacienților@FollowMRImagingPatients2007.
 
 === Aspecte de Medicină Nucleară
 
@@ -134,13 +134,13 @@ Aceasta reprezintă cel mai frecvent diagnostic diferențial pentru spondilodisc
 
 
 În @rm-modic-vs-ds se remarcă leziunea de tip Modic 2 prezentă la nivelul L4/L5, care prezintă semnal hipointens în STIR (@rm-modic-vs-ds A), ceea ce sugerează deshidratarea discului și inflamarea țesuturilor înconjurătoare.
-Semnal hiperintens în secvențele ponderate T1 (@rm-modic-vs-ds B și C), indicativ pentru modificările degenerative cronice ale plăcilor terminale vertebrale, fără eroziuni evidente ale acestora – în contrast cu modificările erozive din spondilodiscită de la nivelul T12/L1 unde se observă distrucția plăcilor terminale vertebrale și a corpurilor vertebrale adiacente sugerând un proces infecțios activ datorat infecției cu _Staphylococcus aureus_, confirmată ulterior @DifferentiationInfectiousSpondylodiscitis2021.
+Semnal hiperintens în secvențele ponderate T1 (@rm-modic-vs-ds B și C), indicativ pentru modificările degenerative cronice ale plăcilor terminale vertebrale, fără eroziuni evidente ale acestora – în contrast cu modificările erozive SD de la nivelul T12/L1 unde se observă distrucția plăcilor terminale vertebrale și a corpurilor vertebrale adiacente sugerând un proces infecțios activ datorat infecției cu _Staphylococcus aureus_, confirmată ulterior @DifferentiationInfectiousSpondylodiscitis2021.
 
-Este important de menționat că, în cazul modificărilor degenerative, aspectul plăcilor terminale vertebrale este în general păstrat, în contrast cu eroziunile observate în spondilodiscită @InfectionsSpine2017.
+Este important de menționat că, în cazul modificărilor degenerative, aspectul plăcilor terminale vertebrale este în general păstrat, în contrast cu leziunile erozive caracteristice SD @InfectionsSpine2017.
 #linebreak()
 *B. Osteomielita Vertebrală Tuberculoasă*
 
-Cunoscută și sub numele de Boala Pott, această afecțiune prezintă câteva caracteristici distincte reprezentate în schema și imaginea RM din @rm-tbc:
+Cunoscută și sub numele de Boala _Pott_, această afecțiune prezintă câteva caracteristici distincte reprezentate în schema și imaginea RM din @rm-tbc:
 
 - Localizare predominantă la nivel toracic mediu sau toracolombar, mai puțin frecvent lombar sau cervical
 - Colaps vertebral cu posibilă deformare în gibozitate
@@ -170,8 +170,7 @@ Elementele distinctive includ:
 - Fenomenul de vacuum discal și priză de contrast inelară
 - Implicarea articulațiilor facetare
 - Spondilolisteză
-- Prezența de resturi osoase și dezorganizare structurală
-Contextul clinic al unei leziuni medulare preexistente este esențial pentru diagnostic sigur @ChronicRecurrentMultifocal2013.
+
 #linebreak()
 #figure(
   image("Files/rx-rm-artropatie.jpg",width: 90%),
@@ -179,7 +178,7 @@ Contextul clinic al unei leziuni medulare preexistente este esențial pentru dia
   supplement: "Figura",
   kind: "AA"
 )<rx-rm-artropatie>
-
+Prezența de resturi osoase și dezorganizare structurală precum și un contex clinic la unei leziuni medulare preexistente este esențial @ChronicRecurrentMultifocal2013.
 #linebreak()
 *D. Spondilartropatia Asociată Hemodializei Cronice*
 
@@ -205,7 +204,7 @@ Istoricul de hemodializă cronică și localizarea predominant cervicală pot aj
 
 #figure(
   image("Files/rm-metastaze.jpg",width: 90%),
-  caption: [Imagistica RM a coloanei cervicale la o pacientă de 75 de ani. *(A)* Imagine sagitală ponderată T1, evidențiind infiltrări anormale ale măduvei osoase (săgeți) în vertebrele cervicale continue, fără distrugere semnificativă sau colaps al corpurilor vertebrale. *(B)* Imagine sagitală  ponderată T2, care arată spațiul discal intervertebral relativ păstrat (vârf de săgeată) și pierderea definiției plăcilor terminale. Intensitatea semnalului discurilor intervertebrale este ușor scăzută în comparație cu segmentele neafectate. *(C)* Imagine sagitală  ponderată T1 cu grăsimea saturată și contrast, care arată captarea contrastului la nivelul infiltrărilor măduvei osoase și modificări infiltrative ale țesuturilor moi paraspinale (săgeți goale). Nu se observă captare semnificativă a contrastului la nivelul discului intervertebral @ContiguousSpinalMetastasis2015. ],
+  caption: [Imagistica RM a coloanei cervicale la o pacientă de 75 de ani. (A) Imagine sagitală ponderată T1, evidențiind infiltrări anormale ale măduvei osoase (săgeți) în vertebrele cervicale continue, fără distrugere semnificativă sau colaps al corpurilor vertebrale. (B) Imagine sagitală  ponderată T2, care arată spațiul discal intervertebral relativ păstrat (vârf de săgeată) și pierderea definiției plăcilor terminale. Intensitatea semnalului discurilor intervertebrale este ușor scăzută în comparație cu segmentele neafectate. (C) Imagine sagitală  ponderată T1 cu grăsimea saturată și contrast, care arată captarea contrastului la nivelul infiltrărilor măduvei osoase și modificări infiltrative ale țesuturilor moi paraspinale (săgeată). Nu se observă captare semnificativă a contrastului la nivelul discului intervertebral @ContiguousSpinalMetastasis2015. ],
   supplement: "Figura",
   kind: "AA",
  gap: 1em

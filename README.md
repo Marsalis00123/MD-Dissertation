@@ -21,7 +21,7 @@ It is intended for **professors**, **doctors**, and **students** interested in t
 
 - **Main Folder**  
   - Contains the dissertation written in Typst, split into chapter-specific files.  
-  - Includes a legacy `Tex/` folder with old LaTeX files, before the migration to Typst.  
+  - Includes a legacy `Tex/` folder with old LaTeX files, before the migration to Typst.  (for archival purposes)
 - **Data/**  
   - Jupyter notebooks and Python scripts for statistical analysis.  
 - **Files/**  
@@ -37,8 +37,6 @@ It is intended for **professors**, **doctors**, and **students** interested in t
 Special thanks to my academic coordinators and mentors:  
 
 - **Instituția Academică**: Universitatea de Medicină și Farmacie "Carol Davila" București, România.
-- **Coordonator**: Șef de disciplină, Prof. Dr. Iana Gheorghe.  
-- **Îndrumător**: Ș.L. Dr. Marinescu Andreea,  A.U. Dr. Cîlțea Roxana.  
 
 ## License  
 
@@ -63,4 +61,4 @@ Available at: [https://github.com/Marsalis00123/MD-Dissertation]
 
 🚧 **Work in Progress**: Additional resources and links will be added soon.  
 
-Feel free to share feedback, suggest improvements, or discuss the findings.  
+Feel free to share feedback, suggest improvements, or discuss the findings.

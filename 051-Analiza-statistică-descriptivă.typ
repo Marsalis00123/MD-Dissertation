@@ -11,14 +11,14 @@
   table.header(
     [*Statistică*], [*Vârsta*],
   ),
-  [Count], [48 ],
-  [Mean], [63.5 ],
-  [Standard Deviation], [10.73 ],
-  [Minimum], [39 ],
-  [25th Percentile], [54.75 ],
-  [Median (50th Percentile)], [65.5 ],
-  [75th Percentile], [71.25 ],
-  [Maximum], [86],),
+  [Număr], [48 ],
+  [Medie], [63.5 ],
+  [Deviația Standard], [10.73 ],
+  [Minim], [39 ],
+  [Percentila 25], [54.75 ],
+  [Mediana (Percentila 50)], [65.5 ],
+  [Percentila 75], [71.25 ],
+  [Maxim], [86],),
   kind: "table",
 supplement: "Tabelul",
 caption: "Statistica descriptivă a vârstelor pacienților cu spondilodiscită incluși în studiu."
@@ -45,7 +45,7 @@ caption: "Statistica descriptivă a vârstelor pacienților cu spondilodiscită 
 )<tbl-gen-d>
 
 #figure(
-  image("Files/gen-freq.png", width: 70%),
+  image("Files/gen-freq.png", width: 80%),
   caption: [Distribuția genurilor incluse în studiu
   ],
   supplement: "Figura",
@@ -64,7 +64,7 @@ caption: "Statistica descriptivă a vârstelor pacienților cu spondilodiscită 
   table.header(
     [*Modalitate*], [*Număr*],
   ),
-  [RM], [38 ],
+  [IRM], [38 ],
   [CT], [24],
   [RX], [18],
   [ECO], [5],
@@ -95,7 +95,7 @@ Reprezentate grafic sunt frecvența modalităților imagistice în @img-freq și
 )<freq-cara>
 
 #figure(
-  image("Files/treat-cons-sur.png", width: 80%),
+  image("Files/treat-cons-sur.png"),
   caption: [Distribuția abordărilor terapeutice: tratament conservator versus chirurgical
   ],
   supplement: "Figura",

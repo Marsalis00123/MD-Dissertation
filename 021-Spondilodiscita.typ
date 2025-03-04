@@ -13,7 +13,7 @@ O infecție a discului presupune un proces inflamator care implică discul și c
 #figure(
   image("Files/svg-DSI.png"),
   caption: [
-    Vascularizația corpului vertebral.
+    Vascularizația corpului vertebral. Chenar mov  → se observă fluxul sanguin mai lent
   ],
   supplement: "Figura", 
   kind: "AA"
@@ -29,7 +29,7 @@ Hipoxia extinsă poate duce la tasarea vertebrelor, cavitații și fracturi de c
 
 Este de menționat că osteomielita piogenă a elementelor posterioare ale vertebrei (pediculi, procese transverse, lame și procese spinoase posterioare) este extrem de rar întâlnită în infecțiile hematogene, din cauza aportului sanguin relativ redus în comparație cu corpul vertebral @PyogenicVertebralOsteomyelitis1997. Implicarea structurilor posterioare este mai frecventă în spondilita tuberculoasă și fungică @ComparativeAnalysisTuberculous2007 @CryptococcalOsteomyelitisSpine1999 @SpondylodiscitisClinicalMagnetic1997. Spondilodiscita piogenă hematogenă afectează cu precădere coloana lombară, urmată de coloana toracică și cervicală, cu frecvențe în descreștere (58%, 30% și 11%, respectiv)@PyogenicVertebralOsteomyelitis2009, acest lucru reflectând, probabil, proporțiile relative ale fluxului sanguin. Leziunile cervicale sunt mai frecvente la utilizatorii de droguri intravenoase @VertebralOsteomyelitis1990. Implicarea multifocală apare în aproximativ 4% din cazuri @PyogenicVertebralOsteomyelitis2009.
 
-Leziunile tuberculoase afectează mai des coloana toracică, conform celor mai multe serii de cazuri @PyogenicTuberculousBrucellar1997, și tind să implice mai mult de două vertebre, uneori neconsecutive, în comparație cu cazurile piogene @PyogenicTuberculousBrucellar1997. Inocularea directă apare cel mai frecvent ca urmare a intervențiilor chirurgicale la nivelul coloanei, puncțiilor lombare sau procedurilor epidurale, fiind responsabilă de până la 25-30% dintre cazuri în unele serii de spondilodiscită @PyogenicTuberculousBrucellar1997. În infecțiile vertebrale, părțile posterioare sunt de obicei implicate @ComparativeStudyPostoperative2005. Infecția materialului protetic implantat este un factor predispozant important după intervențiile chirurgicale. În cazuri rare, spondilodiscita poate apărea în urma unor plăgi prin înjunghiere sau împușcare la nivelul coloanei @Analysis61Cases1991. Extensia din focare infecțioase adiacente este rară, dar poate apărea, de obicei, din infecțiile de grefe aortice, esofag rupt sau abces retrofaringian.
+Leziunile tuberculoase afectează mai des coloana toracică, conform celor mai multe serii de cazuri @PyogenicTuberculousBrucellar1997, și tind să implice mai mult de două vertebre, uneori neconsecutive, în comparație cu cazurile piogene @PyogenicTuberculousBrucellar1997. Inocularea directă apare cel mai frecvent ca urmare a intervențiilor chirurgicale la nivelul coloanei, puncțiilor lombare sau procedurilor epidurale, fiind responsabilă de până la 25-30% dintre cazuri @PyogenicTuberculousBrucellar1997. În infecțiile vertebrale, părțile posterioare sunt de obicei implicate @ComparativeStudyPostoperative2005. Infecția materialului protetic implantat este un factor predispozant important după intervențiile chirurgicale. În cazuri rare, spondilodiscita poate apărea în urma unor plăgi prin înjunghiere sau împușcare la nivelul coloanei @Analysis61Cases1991. Extensia din focare infecțioase adiacente este rară, dar poate apărea, de obicei, din infecțiile de grefe aortice, esofag rupt sau abces retrofaringian.
 == Clinica SD
 
 Tabloul clinic al unei infecții la nivelul discului este destul de nespecific. Pacientul prezintă durere progresivă la nivelul coloanei, constantă, fără ameliorare în repaus, și un deficit neurologic. 
@@ -38,7 +38,7 @@ Deformările spinale, în special cifoza, sunt mai frecvente în spondilita tube
 
 În ceea ce privește viteza de sedimentare a eritrocitelor (VSH) sau proteina C reactivă, dacă VSH nu este crescut, probabilitatea de a avea o infecție semnificativă este redusă @SpondylodiscitisRevisited2017. Totuși, problema este că, dacă există o infecție în altă parte a corpului, viteza de sedimentare va fi crescută, indiferent dacă există sau nu o infecție la nivelul coloanei. Hemoculturile sunt, de asemenea, variabile, deoarece multe dintre ele sunt prelevate după ce pacientul a început deja tratamentul pentru una sau mai multe infecții, ceea ce face ca simptomele să fie și mai nespecifice.
 
-La copii, simptomele spondilodiscitei sunt nespecifice și includ iritabilitate, șchiopătare, refuzul de a se târî, a sta în șezut sau a merge, dureri de șold sau chiar dureri abdominale @NontuberculousSpondylodiscitisChildren2002. Incontinența poate fi un simptom de debut @DiscitisVertebralOsteomyelitis2000. Febra este mai puțin frecventă la copiii mici cu discită, comparativ cu cei mai mari care suferă de osteomielită vertebrală @DiscitisVertebralOsteomyelitis2000. Pierderea lordozei lombare și limitarea mișcărilor spatelui inferior sunt cele mai frecvente semne la examenul clinic @DiscitisYoungChildren2001. În comparație cu adulții, copiii au mai puține comorbidități și deficitele neurologice sunt rare @LongtermClinicalRadiological2008.
+La copii, simptomele spondilodiscitei sunt nespecifice și includ Incontinența (care poate fi un simptom de debut @DiscitisVertebralOsteomyelitis2000) iritabilitate, șchiopătare, refuzul de a se târî, a sta în șezut sau a merge, dureri de șold sau chiar dureri abdominale @NontuberculousSpondylodiscitisChildren2002. Febra este mai puțin frecventă la copiii mici cu discită, comparativ cu cei mai mari care suferă de osteomielită vertebrală @DiscitisVertebralOsteomyelitis2000. Pierderea lordozei lombare și limitarea mișcărilor spatelui inferior sunt cele mai frecvente semne la examenul clinic @DiscitisYoungChildren2001. În comparație cu adulții, copiii au mai puține comorbidități și deficitele neurologice sunt rare @LongtermClinicalRadiological2008.
 
 == Paraclinica SD
 
@@ -57,7 +57,7 @@ Un alt studiu efectuat de _Chang et al._ a evidențiat că randamentul diagnosti
 
 #figure(
   image("Files/biop-48.png"),
-  caption: [Biopsie ghidată angiografic la un pacient de 48 de ani, prezentat cu dorsalgii lombare intense, febră și frisoane, efectuată la nivelul vertebrei L4 (vedere axială în stânga—reconstrucție sagitală în dreapta) confirmă diagnosticul de spondilodiscită. Acul de biopsie (8 gauge) este poziționat în corpul vertebral L4, evidențiindu-se eroziunea plăcii terminale superioare (săgeți) adiacentă discului.
+  caption: [Biopsie ghidată angiografic la un pacient de 48 de ani, prezentat cu dorsalgii lombare intense, febră și frisoane, efectuată la nivelul vertebrei L4 (vedere coronală în stânga—reconstrucție sagitală în dreapta) confirmă diagnosticul de spondilodiscită. Acul de biopsie (8 gauge) este poziționat în corpul vertebral L4, evidențiindu-se eroziunea plăcii terminale superioare (săgeți) adiacentă discului.
   ],
   supplement: [Figura],
   kind: "AA",

@@ -100,27 +100,24 @@
 #include "010-Introducere.typ"
 #pagebreak(weak: true)
 #include "021-Spondilodiscita.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "022-EtiologieSD.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "023-Epidemiologie.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "031-Rolul-imagisticii-diagnostic.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "032-planificarea-tratamentului.typ"
 #include "033-monitorizare-tratament.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "034-Diagnosticul-imagistic-al-SD.typ"
-#pagebreak()
-
-
 
 #pagebreak(weak: true)
 // = Partea specială
 #include "041-includere-excludere.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "042-Metodele-statistice-folosite-în-studiu.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "043-Programul-de-analiză-a-datelor.typ"
 // #pagebreak(weak: true)
 // #include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
@@ -128,9 +125,9 @@
 
 // = Rezultate
 #include "051-Analiza-statistică-descriptivă.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "052-Analiza-comorbidităților.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "053-Analiza-impactului-rapoarterelor-a-a.typ"
 // #pagebreak(weak: true)
 // #include "054-Corelația-între-imagistică-și-evoluția-clinică.typ"
@@ -142,9 +139,9 @@
 
 // = Interpretarea datelor/discuții
 #include "061-Analiza-statistică-descriptivă.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "062-Analiza-comorbidităților.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "063-Analiza-impactului-rapoarterelor-a-a.typ"
 // #pagebreak(weak: true)
 // #include "064-Corelația-între-imagistică-și-evoluția-clinică.typ"
@@ -152,7 +149,7 @@
 // #include "064-Influența-segmentului-afectat.typ"
 // #pagebreak(weak: true)
 // #include "066-Analiza complicațiilor-post-tratament.typ"
-#pagebreak(weak: true)
+// #pagebreak(weak: true)
 #include "064-Considerente-etice-limitări.typ"
 #pagebreak(weak: true)
 
