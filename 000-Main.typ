@@ -97,38 +97,41 @@
 #outline(fill: line(length: 100%), depth: 1)
 
 #pagebreak(weak: true)
-#include "010-Introducere.typ"
+#include "01x-Introducere.typ"
 #pagebreak(weak: true)
-#include "021-Spondilodiscita.typ"
-// #pagebreak(weak: true)
-#include "022-EtiologieSD.typ"
-// #pagebreak(weak: true)
-#include "023-Epidemiologie.typ"
-// #pagebreak(weak: true)
-#include "031-Rolul-imagisticii-diagnostic.typ"
-// #pagebreak(weak: true)
-#include "032-planificarea-tratamentului.typ"
-#include "033-monitorizare-tratament.typ"
-// #pagebreak(weak: true)
-#include "034-Diagnosticul-imagistic-al-SD.typ"
+#include "02x-SD-patologie-etiologie-epidemio.typ"
+// // #pagebreak(weak: true)
+// #include "022-EtiologieSD.typ"
+// // #pagebreak(weak: true)
+// #include "023-Epidemiologie.typ"
+#include "03x-Imagistica-medicală.typ"
+// // #pagebreak(weak: true)
+// #include "031-Rolul-imagisticii-diagnostic.typ"
+// // #pagebreak(weak: true)
+// #include "032-planificarea-tratamentului.typ"
+// #include "033-monitorizare-tratament.typ"
+// // #pagebreak(weak: true)
+// #include "034-Diagnosticul-imagistic-al-SD.typ"
 
 #pagebreak(weak: true)
 // = Partea specială
-#include "041-includere-excludere.typ"
-// #pagebreak(weak: true)
-#include "042-Metodele-statistice-folosite-în-studiu.typ"
-// #pagebreak(weak: true)
-#include "043-Programul-de-analiză-a-datelor.typ"
-// #pagebreak(weak: true)
-// #include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
+#include "04x-Metode.typ"
+// #include "041-includere-excludere.typ"
+// // #pagebreak(weak: true)
+// #include "042-Metodele-statistice-folosite-în-studiu.typ"
+// // #pagebreak(weak: true)
+// #include "043-Programul-de-analiză-a-datelor.typ"
+// // #pagebreak(weak: true)
+// // #include "044-Reprezentarea-vizuală-a-datelor-și-analiza-statistică-a-cohortei-studiate.typ"
 #pagebreak(weak: true)
 
 // = Rezultate
-#include "051-Analiza-statistică-descriptivă.typ"
-// #pagebreak(weak: true)
-#include "052-Analiza-comorbidităților.typ"
-// #pagebreak(weak: true)
-#include "053-Analiza-impactului-rapoarterelor-a-a.typ"
+#include "05x-Analiza-Datelor.typ"
+// #include "051-Analiza-statistică-descriptivă.typ"
+// // #pagebreak(weak: true)
+// #include "052-Analiza-comorbidităților.typ"
+// // #pagebreak(weak: true)
+// #include "053-Analiza-impactului-rapoarterelor-a-a.typ"
 // #pagebreak(weak: true)
 // #include "054-Corelația-între-imagistică-și-evoluția-clinică.typ"
 // #pagebreak(weak: true)
@@ -138,11 +141,12 @@
 #pagebreak(weak: true)
 
 // = Interpretarea datelor/discuții
-#include "061-Analiza-statistică-descriptivă.typ"
-// #pagebreak(weak: true)
-#include "062-Analiza-comorbidităților.typ"
-// #pagebreak(weak: true)
-#include "063-Analiza-impactului-rapoarterelor-a-a.typ"
+#include "06x-Discuții.typ"
+// #include "061-Analiza-statistică-descriptivă.typ"
+// // #pagebreak(weak: true)
+// #include "062-Analiza-comorbidităților.typ"
+// // #pagebreak(weak: true)
+// #include "063-Analiza-impactului-rapoarterelor-a-a.typ"
 // #pagebreak(weak: true)
 // #include "064-Corelația-între-imagistică-și-evoluția-clinică.typ"
 // #pagebreak(weak: true)
@@ -154,11 +158,11 @@
 #pagebreak(weak: true)
 
 // // = Studii de caz
-// #include "071-Studii-de-caz.typ"
+#include "071-Studii-de-caz.typ"
 // #pagebreak(weak: true)
 
 // // = Direcții viitoare
-// #include "081-Direcții-Viitoare.typ"
+#include "081-Direcții-Viitoare.typ"
 // #pagebreak(weak: true)
 
 // = Concluzii
