@@ -125,14 +125,13 @@ Reprezentate grafic sunt frecvența modalităților imagistice în @img-freq și
 - Fibrilație atrială: 1.25
 - Spondilodiscită: 1.62
 
-Aceste valori sugerează variații în numărul de investigații imagistice efectuate în funcție de comorbiditatea asociată.
+
 
 
 === Rezultatele regersiei liniare
 
 Analiza regresiei liniare a evidențiat următoarele rezultate:
-Coeficientul de determinare $(R^2) = 0.027$, ceea ce înseamnă că doar 2.7% din variația numărului de investigații imagistice poate fi explicată de numărul de comorbidități.
-P-value pentru nr_comorbiditati = 0.268
+Coeficientul de determinare este: $(R^2) = 0.027$ și are un $p=0.268$, ceea ce înseamnă că doar 2.7% din variația numărului de investigații imagistice poate fi explicată de numărul de comorbidități.
 
 
 // // De scos
@@ -216,34 +215,101 @@ Datele prezentate în @tratament-caracteristici reflectă procentul de pacienți
   supplement: "Figura",
 ) <tratament-caracteristici>
 
-=== Caracteristicile imagistice și tratamentele asociate
+// === Caracteristicile imagistice și tratamentele asociate
 
-- *Edem*: La 43.8% din pacienți tratați conservator și la 33.3% din cei tratați chirurgical s-a observat că edemul, în mod frecvent asociat cu inflamația, a impus decizii mai conservatoare pentru majoritatea pacienților.
-- *Eroziuni*: Caracteristică observată la 41.7% dintre pacienți cu tratament conservator și 33.3% la cei chirurgicali. Eroziunile osoase pot indica progresia bolii, însă majoritatea cazurilor au fost gestionate conservator.
-- *Colecții*: Au impus intervenții chirurgicale în 27.1% dintre cazuri, comparativ cu 25% gestionate conservator. Acest aspect sugerează o ușoară preferință pentru tratamentele chirurgicale în prezența colecțiilor, probabil pentru drenajul acestora.
-- *Tasări*: Au fost observate la 12.5% dintre pacienții tratați chirurgical și la 10.4% din cei tratați conservator, indicând o intervenție chirurgicală mai frecventă în cazurile cu tasări vertebrale.
-- *Stenoză* și *Amprentare medulară*: Ambele au avut o distribuție relativ egală între tratamentele conservatoare și chirurgicale, sugerând că decizia terapeutică poate depinde de alți factori clinici.
+// - *Edem*: La 43.8% din pacienți tratați conservator și la 33.3% din cei tratați chirurgical s-a observat că edemul, în mod frecvent asociat cu inflamația, a impus decizii mai conservatoare pentru majoritatea pacienților.
+// - *Eroziuni*: Caracteristică observată la 41.7% dintre pacienți cu tratament conservator și 33.3% la cei chirurgicali. Eroziunile osoase pot indica progresia bolii, însă majoritatea cazurilor au fost gestionate conservator.
+// - *Colecții*: Au impus intervenții chirurgicale în 27.1% dintre cazuri, comparativ cu 25% gestionate conservator. Acest aspect sugerează o ușoară preferință pentru tratamentele chirurgicale în prezența colecțiilor, probabil pentru drenajul acestora.
+// - *Tasări*: Au fost observate la 12.5% dintre pacienții tratați chirurgical și la 10.4% din cei tratați conservator, indicând o intervenție chirurgicală mai frecventă în cazurile cu tasări vertebrale.
+// - *Stenoză* și *Amprentare medulară*: Ambele au avut o distribuție relativ egală între tratamentele conservatoare și chirurgicale, sugerând că decizia terapeutică poate depinde de alți factori clinici.
 
-Alte caracteristici, precum *fracturile*, *abscesul*, *cardiomegalia*, *osteofitele*, au fost distribuite mai uniform între tratamentele chirurgicale și conservatoare, fără diferențe majore.
+// Alte caracteristici, precum *fracturile*, *abscesul*, *cardiomegalia*, *osteofitele*, au fost distribuite mai uniform între tratamentele chirurgicale și conservatoare, fără diferențe majore.
 
-=== Tabele de contingență <date-contingență> //checkV2 <>
-Am analizat asocierea între prezența caracteristicilor imagistice selectate (eroziuni, colecții și hernie de disc lombară (HDL)) și decizia terapeutică (chirurgicală versus non-chirurgicală) folosind testul Fisher exact. Caracteristicile au fost selectate datorită frecvenței lor semnificative în cohorta studiată, așa cum este ilustrat în @freq-cara. În @tbl-eroziuni, @tbl-colectii și @tbl-hdl sunt prezentate tabelele de contingență cu distribuția pacienților și valorile p corespunzătoare.
-// Tabel pentru eroziuni
+// === Tabele de contingență <date-contingență> //checkV2 <>
+// Am analizat asocierea între prezența caracteristicilor imagistice selectate (eroziuni, colecții și hernie de disc lombară (HDL)) și decizia terapeutică (chirurgicală versus non-chirurgicală) folosind testul Fisher exact. Caracteristicile au fost selectate datorită frecvenței lor semnificative în cohorta studiată, așa cum este ilustrat în @freq-cara. În @tbl-eroziuni, @tbl-colectii și @tbl-hdl sunt prezentate tabelele de contingență cu distribuția pacienților și valorile p corespunzătoare.
+// // Tabel pentru eroziuni
+// #figure(
+//   table(
+//     columns: (1fr, 1fr, 1fr),
+//     inset: 10pt,
+//     align: top,
+//     table.header(
+//       [*Eroziuni*], [*Non-chirurgical*], [*Chirurgical*],
+//     ),
+//     [Absența], [7], [5],
+//     [Prezența], [20], [16],
+//   ),
+//   kind: "table",
+//   supplement: "Tabelul",
+//   caption: "Tabel de contingență pentru eroziuni (p = 1.0000)",
+// )<tbl-eroziuni>
+
+// // Tabel pentru colecții
+// #figure(
+//   table(
+//     columns: (1fr, 1fr, 1fr),
+//     inset: 10pt,
+//     align: top,
+//     table.header(
+//       [*Colecții*], [*Non-chirurgical*], [*Chirurgical*],
+//     ),
+//     [Absența], [15], [8],
+//     [Prezența], [12], [13],
+//   ),
+//   kind: "table",
+//   supplement: "Tabelul",
+//   caption: "Tabel de contingență pentru colecții (p = 0.2592)",
+// )<tbl-colectii>
+
+// // Tabel pentru hdl
+// #figure(
+//   table(
+//     columns: (1fr, 1fr, 1fr),
+//     inset: 10pt,
+//     align: top,
+//     table.header(
+//       [*HDL*], [*Non-chirurgical*], [*Chirurgical*],
+//     ),
+//     [Absența], [24], [17],
+//     [Prezența], [3], [4],
+//   ),
+//   kind: "table",
+//   supplement: "Tabelul",
+//   caption: "Tabel de contingență pentru HDL (p = 0.6830)",
+// )<tbl-hdl>
+// Din totalul de 48 de pacienți analizați, prezența eroziunilor a fost observată la 36 de pacienți (75.0%). Dintre aceștia, 16 au fost tratați chirurgical și 20 non-chirurgical. Testul Fisher exact nu a identificat o asociere semnificativă statistic între prezența eroziunilor și decizia terapeutică (p = 1.0000).
+// Colecțiile au fost prezente la 25 de pacienți (52.1%). Dintre aceștia, 13 au fost tratați chirurgical și 12 non-chirurgical. Analiza statistică nu a demonstrat o asociere semnificativă între prezența colecțiilor și modalitatea de tratament aleasă (p = 0.2592).
+// Hernia de disc lombară (HDL) a fost identificată la 7 pacienți (14.6%). Dintre aceștia, 4 au fost tratați chirurgical și 3 non-chirurgical. Nu s-a evidențiat o asociere semnificativă statistic între prezența HDL și decizia terapeutică (p = 0.6830).
+=== Caracteristicile imagistice și tratamentele asociate //tabele noi
+
+- *Colecții*: Prezente la 44.4% din pacienții tratați conservator și la 61.9% din cei tratați chirurgical, cu o diferență de 17.5% (p=0.2592). Acest aspect sugerează o tendință spre tratamente chirurgicale în prezența colecțiilor, probabil pentru drenajul acestora.
+- *Fracturi*: Observate la 11.1% dintre pacienții cu tratament conservator și la 0% la cei chirurgicali (p=0.2460). Aceasta indică o gestionare mai conservatoare a fracturilor în cohorta studiată.
+- *HDL (Hernie de disc lombară)*: Caracteristică observată la 11.1% dintre pacienții cu tratament conservator și 19.0% la cei chirurgicali (p=0.6830). Deși nu este statistic semnificativ, există o ușoară preferință pentru intervenția chirurgicală.
+- *Gadolinofilie*: Prezentă la 7.4% din pacienții tratați conservator și la 14.3% din cei tratați chirurgical (p=0.6413). Gadolinofilia, care indică captarea contrastului și poate sugera infecție sau inflamație, ar putea influența decizia spre tratamente chirurgicale.
+- *Spondilodiscită*: Observată la 3.7% dintre pacienții cu tratament conservator și la 9.5% la cei chirurgicali (p=0.5738), sugerând o posibilă preferință pentru intervenția chirurgicală în aceste cazuri.
+
+Alte caracteristici, precum *discectomie*, *pneumatocele*, au fost observate în procente mici și exclusiv în grupul chirurgical, dar fără diferențe statistice semnificative.
+
+=== Tabele de contingență <date-contingență> //noile tabele
+
+Am analizat asocierea între prezența caracteristicilor imagistice selectate (gadolinofilie, colecții și hernie de disc lombară (HDL)) și decizia terapeutică (chirurgicală versus non-chirurgicală) folosind testul Fisher exact. Caracteristicile au fost selectate datorită frecvenței lor și relevanței clinice în cohorta studiată, așa cum este ilustrat în @freq-cara. În @tbl-gadolinofilie, @tbl-colectii și @tbl-hdl sunt prezentate tabelele de contingență cu distribuția pacienților și valorile p corespunzătoare.
+
+// Tabel pentru gadolinofilie
 #figure(
   table(
     columns: (1fr, 1fr, 1fr),
     inset: 10pt,
     align: top,
     table.header(
-      [*Eroziuni*], [*Non-chirurgical*], [*Chirurgical*],
+      [*Gadolinofilie*], [*Non-chirurgical*], [*Chirurgical*],
     ),
-    [Absența], [7], [5],
-    [Prezența], [20], [16],
+    [Absența], [25], [18],
+    [Prezența], [2], [3],
   ),
   kind: "table",
   supplement: "Tabelul",
-  caption: "Tabel de contingență pentru eroziuni (p = 1.0000)",
-)<tbl-eroziuni>
+  caption: "Tabel de contingență pentru gadolinofilie (p = 0.6413)",
+)<tbl-gadolinofilie>
 
 // Tabel pentru colecții
 #figure(
@@ -278,10 +344,12 @@ Am analizat asocierea între prezența caracteristicilor imagistice selectate (e
   supplement: "Tabelul",
   caption: "Tabel de contingență pentru HDL (p = 0.6830)",
 )<tbl-hdl>
-Din totalul de 48 de pacienți analizați, prezența eroziunilor a fost observată la 36 de pacienți (75.0%). Dintre aceștia, 16 au fost tratați chirurgical și 20 non-chirurgical. Testul Fisher exact nu a identificat o asociere semnificativă statistic între prezența eroziunilor și decizia terapeutică (p = 1.0000).
-Colecțiile au fost prezente la 25 de pacienți (52.1%). Dintre aceștia, 13 au fost tratați chirurgical și 12 non-chirurgical. Analiza statistică nu a demonstrat o asociere semnificativă între prezența colecțiilor și modalitatea de tratament aleasă (p = 0.2592).
-Hernia de disc lombară (HDL) a fost identificată la 7 pacienți (14.6%). Dintre aceștia, 4 au fost tratați chirurgical și 3 non-chirurgical. Nu s-a evidențiat o asociere semnificativă statistic între prezența HDL și decizia terapeutică (p = 0.6830).
 
+Din totalul de 48 de pacienți analizați, prezența gadolinofiliei a fost observată la 5 pacienți (10.4%). Dintre aceștia, 3 au fost tratați chirurgical și 2 non-chirurgical. Testul Fisher exact nu a identificat o asociere semnificativă statistic între prezența gadolinofiliei și decizia terapeutică ($p = 0.6413$).
+
+Colecțiile au fost prezente la 25 de pacienți (52.1%). Dintre aceștia, 13 au fost tratați chirurgical și 12 non-chirurgical. Analiza statistică nu a demonstrat o asociere semnificativă între prezența colecțiilor și modalitatea de tratament aleasă ($p = 0.2592$).
+
+Hernia de disc lombară (HDL) a fost identificată la 7 pacienți (14.6%). Dintre aceștia, 4 au fost tratați chirurgical și 3 non-chirurgical. Nu s-a evidențiat o asociere semnificativă statistic între prezența HDL și decizia terapeutică ($p = 0.6830$).
 
 
 //  *TREBUIE MODIFICAT CU FICHER + Scos valorile p = 1*
