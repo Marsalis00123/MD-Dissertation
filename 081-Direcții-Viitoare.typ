@@ -1,3 +1,4 @@
+#pagebreak()
 = Direcții Viitoare<direcții>
 Studiul spondilodiscitei infecțioase rămâne un domeniu dinamic, cu progrese semnificative, dar și cu numeroase provocări nerezolvate în ceea ce privește diagnosticul precoce, stratificarea riscului, optimizarea tratamentului și predicția evoluției. Constatările prezentului studiu, deși limitate de dimensiunea și designul retrospectiv al cohortei, subliniază complexitatea acestei patologii și rolul central, dar în evoluție, al imagisticii în managementul său. Pe baza literaturii de specialitate și a lacunelor evidențiate de studiul de față, se conturează o serie de direcții de cercetare viitoare esențiale pentru îmbunătățirea îngrijirii pacienților.
 == Abordarea limitărilor metodologice în studiile viitoare

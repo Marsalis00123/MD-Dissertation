@@ -157,6 +157,50 @@ CT-ul este o metodă de imagistică disponibilă pe scară largă și este mai a
 Imagistica prin rezonanță magnetică (IRM) se distinge ca instrumentul imagistic primordial în domeniul neuroradiologic, atât pentru diagnostic, cât și pentru intervenții, datorită contrastului său excelent în țesuturile moi și capacității multiplanare. În prezent, IRM-ul este considerat standardul de aur în diagnosticul SD, demonstrând o sensibilitate și specificitate ridicate (96% și, respectiv, 92% @DegenerativeDiskDisease1988), cu o acuratețe diagnostică de 94% @ComparisonDiagnosticValue2017, în special în stadiile incipiente ale bolii @SpondylodiscitisDiagnosisTreatment2017 @CurrentDiagnosisTreatment2008. Această performanță se datorează detaliilor anatomice superioare a țesuturilor și abilității de a identifica modificările patologice precoce.
 Edemul osos, un indicator precoce al bolii, se manifestă prin infiltrat inflamator și expansiunea spațiului extracelular, vizibile ca hipointensitate în secvențele T1 și hiperintensitate în secvențele T2 @SpinalInfectionState2013. Unii autori sugerează că hiperintensitatea T2 a mușchilor psoas poate fi un semn foarte precoce al SD lombare @ImagingPsoasSign2016. Adăugarea contrastului pe secvențele T1 cu saturația grăsimii oferă o claritate superioară, evidențiind în special componentele epidurale și paraspinale ale infecției prin priza de contrast distinctă la nivelul discului și al corpurilor vertebrale. O secvență suplimentară STIR poate furniza informații mai clare decât T2, datorită saturației grăsimii care accentuează prelungirea semnalului T2 @DiffusionweightedMRIClaw2014. RM-ul excelează în dezvăluirea extinderii infecției, oferind imagini superioare ale țesuturilor moi paraspinale și spațiului epidural @DiagnosticPerformanceMultiDetector2022. Imagistica ponderată prin difuzie (DWI) este utilă, în special în cazurile în care pacienții au contraindicație la contrast, oferind informații valoroase și crescând încrederea în diagnosticul diferențial între infecție și modificări degenerative.
 Pe lângă modificările acute, IRM-ul evidențiază cu acuratețe și modificările ulterioare sau post-infecțioase, inclusiv înlocuirea țesutului necrozat cu țesut fibros vascularizat, transformarea măduvei galbene, fibroza subcondrală și osteoscleroza. Capacitatea RM-ului de a diferenția între formele non-piogene (de exemplu, SD tuberculoasă sau bruceloză) de cele degenerative de tip Modic (caracterizate prin platouri vertebrale hipointense pe secvențele T1 și hiperintense pe T2, spre deosebire de spațiul discal hipointens pe T1 și T2 în SD) oferă avantaje semnificative în caracterizarea etiologică a SD, aspect crucial pentru stabilirea unui tratament adecvat @SpinalInfectionState2013@DiagnosticInterventionalManagement2020@DegenerativeDiskDisease1988.
+// #figure(
+//   table(
+//     columns: (auto, auto, auto, auto, auto),
+//     inset: 10pt,
+//     align: center,
+    
+//     // Header row 1
+//     table.cell(
+//       rowspan: 2,
+//       [Secvență]
+//     ),
+//     table.cell(
+//       colspan: 4,
+//       [Tabelul I: Caracteristicile IRM pentru Modic I și spondilodiscită (SD).]
+//     ),
+    
+//     // Header row 2
+//     [],
+//     table.cell(
+//       rowspan: 1,
+//       colspan: 1,
+//       [Modic I]
+//     ),
+//     table.cell(
+//       rowspan: 1,
+//       colspan: 3,
+//       [SD]
+//     ),
+    
+//     // Header row 3
+//     [],
+//     [],
+//     [Disc],
+//     [Platou Vertebral],
+//     [Disc],
+    
+//     // Data rows
+//     [T1], [$arrow.b$], [$arrow.b$], [$arrow.b$], [$arrow.b$],
+//     [T2], [$arrow.b$], [$arrow.b$], [$arrow.t$], [#text(fill: rgb(0, 176, 240))[$arrow.b$]],
+//     [T1 K], [$arrow.b$], [$arrow.t$], [#text(fill: rgb(0, 176, 240))[$arrow.b$]], [],
+//   ),
+//   kind: "table",
+//   caption: none
+// )
 #figure(
 image("Files/IRM-important.png"),
 caption: [Imaginile IRM prezintă aspecte tipice de spondilodiscită: intensitate scăzută a semnalului pe secvențele T1 (a., b., c.) și o intensitate crescută pe secvențele T2 (d., e., f.), evidențiind modificări atât în discul intervertebral, cât și în platourile vertebrale. Pierderea fisurii intranucleare normale (f., săgeata albă) indică alterări ale țesutului fibros din nucleul pulpos. Vascularizația post-inflamatorie și țesutul granulomatos pot duce la o intensificare semnificativă a semnalului după administrarea de contrast (g., h., i.). @DiagnosticInterventionalManagement2020],
@@ -349,7 +393,7 @@ Această afecțiune se întâlnește la pacienții cu insuficiență renală cro
 - Distrucție vertebrală
 
 Istoricul de hemodializă cronică și localizarea predominant cervicală pot ajuta la diferențierea de spondilodiscita infecțioasă @EpidemiologicalClinicalFeatures2012@PercutaneousNeedleBiopsy2012.
-#pagebreak()
+// #pagebreak()
 *E. Metastaze spinale*
 
 - Leziuni vertebrale fie bine delimitate, fie difuze

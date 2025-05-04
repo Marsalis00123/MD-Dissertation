@@ -10,9 +10,9 @@ In @svg-DSI este ilustrată vascularizația corpului vertebral de unde distingem
 O infecție a discului presupune un proces inflamator care implică discul și corpurile vertebrale adiacente cu extindere tipică către spațiul epidural și țesuturile moi paravertebrale. Principala cale de infecție la acest nivel este hematogenă cu Staph. Aureus fiind cel mai comun agent infecțios @RetrospectiveStudySpondylodiscitis2020
 
 #figure(
-  image("Files/svg-DSI.png"),
+  image("Files/svg-DSI.jpg"),
   caption: [
-    Vascularizația corpului vertebral. Chenar mov  → se observă fluxul sanguin mai lent
+    Vascularizația corpului vertebral. Chenar turcoaz  → se observă fluxul sanguin mai lent
   ],
   supplement: "Figura", 
   kind: "AA"
@@ -103,7 +103,7 @@ Un alt studiu efectuat de _Chang et al._ a evidențiat că randamentul diagnosti
 
 
 #figure(
-  image("Files/biop-48.png"),
+  image("Files/biop-48.jpg"),
   caption: [Biopsie ghidată angiografic la un pacient de 48 de ani, prezentat cu dorsalgii lombare intense, febră și frisoane, efectuată la nivelul vertebrei L4 (vedere coronală în stânga—reconstrucție sagitală în dreapta) confirmă diagnosticul de spondilodiscită. Acul de biopsie (8 gauge) este poziționat în corpul vertebral L4, evidențiindu-se eroziunea plăcii terminale superioare (săgeți) adiacentă discului.
   ],
   supplement: [Figura],

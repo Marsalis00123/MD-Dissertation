@@ -1,3 +1,4 @@
+#pagebreak()
 = Concluzii<concluzii>
 
 Prezentul studiu retrospectiv a investigat rolul imagisticii medicale în managementul spondilodiscitei infecțioase la o cohortă de 48 de pacienți internați într-un spital de urgență. Analiza a urmărit caracteristicile demografice ale cohortei, frecvența utilizării diferitelor modalități imagistice, impactul comorbidităților asupra volumului de investigații, și asocierea dintre prezența anumitor caracteristici imagistice și decizia terapeutică (conservator versus chirurgical).

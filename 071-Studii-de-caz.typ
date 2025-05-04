@@ -114,7 +114,7 @@ kind: "AA",
 *Management și Evoluție:*
 Tabloul clinic sever, infecția sistemică (sepsis, agent patogen identificat) și mai ales evidențele imagistice de abcese extinse multi-segmentare (cervico-toracal, toracal, lombar) cu efect compresiv asupra măduvei spinării (la T10-T11) au impus un management chirurgical complex și multidisciplinar. Pacienta a fost supusă intervențiilor chirurgicale de urgență, care au inclus drenajul abceselor epidurale spinale toracal și lombar, decompresie spinală, decorticare pleuropulmonară și drenaj mediastinal transtoracic drept pentru mediastinita purulentă asociată. Pe lângă intervențiile chirurgicale, s-a administrat antibioterapie țintită conform antibiogramei (deși în rezumatul specific nu sunt detaliate antibioticele post-identificare Staph. aureus, protocoalele standard impun acest lucru). Evoluția postoperatorie a fost calificată drept favorabilă spre vindecare chirurgicală toracică, indicând succesul parțial al intervențiilor în controlul procesului infecțios la acest nivel.
 *Plan de Continuare:*
-La externare, planul a inclus continuarea tratamentului de specialitate (probabil antibioterapie de lungă durată, reevaluări clinice și imagistice) și monitorizare multidisciplinară post-externalizare, dată fiind complexitatea și extinderea bolii. Nu s-a consemnat exitus la momentul externării.
+La externare, planul a inclus continuarea tratamentului de specialitate (antibioterapie de lungă durată, reevaluări clinice și imagistice) și monitorizare multidisciplinară post-externalizare, dată fiind complexitatea și extinderea bolii. Nu s-a consemnat exitus la momentul externării.
 
 
 
