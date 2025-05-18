@@ -16,44 +16,72 @@ Pacienta în vârstă de 74 de ani s-a prezentat inițial pe secția de Ortopedi
 Investigații paraclinice (non-imagistice):
 Evaluarea biologică a evidențiat leucocitoză și probe inflamatorii crescute (VSH, CRP, fibrinogen), confirmând prezența unui proces inflamator/infecțios, dar fără a localiza specific sursa la momentul inițial. Ulterior, s-a efectuat citopuncție discală L3-L4 pentru recoltarea de probe biologice, dar examenul bacteriologic al culturii a avut rezultat negativ.
 *Investigații imagistice:*
-Imagistica a jucat un rol determinant în elucidarea diagnosticului și modificarea abordării terapeutice. Inițial, s-a efectuat un CT toraco-abdomino-pelvin nativ și postcontrast i.v., care a relevat numeroase constatări extra-spinale (sondă de traheostomă, nodul subpleural, benzi fibrotice pulmonare, tromb în artera subclavie stângă, lichid pericardic, pancreas atrofic cu lipom/chiste, chiste renale corticale și parapielice, fine modificări de paniculită mezenterică, imagine nodulară parauterin stânga), relevante pentru comorbiditățile pacientei, dar care nu explicau simptomatologia spinală. Pe lângă acestea, CT-ul a identificat la nivel vertebral semne cruciale: liza difuză corticală și osteoscleroza subcondrală la nivelul platourilor vertebrale adiacente discului L3-L4 evidente în @fig-case1-ct-spinal, asociind densificarea planului din jur și imagini ganglionare infracentimetrice periaortic și pericav. Aceste constatări au ridicat suspiciunea fermă de spondilodiscită L3-L4, redirecționând investigațiile și managementul către patologia spinală infecțioasă.
+Imagistica a jucat un rol determinant în elucidarea diagnosticului și modificarea abordării terapeutice. Inițial, s-a efectuat un CT toraco-abdomino-pelvin nativ și postcontrast i.v., care a relevat numeroase constatări extra-spinale, relevante pentru comorbiditățile pacientei. Pe lângă acestea, CT-ul a identificat la nivel vertebral semne cruciale: liza difuză corticală și osteoscleroza subcondrală la nivelul platourilor vertebrale adiacente discului L3-L4, asociind densificarea planului din jur și imagini ganglionare infracentimetrice periaortic și pericav. Aceste constatări au ridicat suspiciunea de spondilodiscită L3-L4, redirecționând investigațiile și managementul către patologia spinală infecțioasă, așa cum se poate observa în @fig-case1-ct-spinal.
 #figure(
-// Placeholder pentru imaginea CT sagitală sau axială L3-L4 care arată liza/scleroza platourilor
-image("Files/fig-case1-ct-spinal.jpg"), // Nume de fișier placeholder
-caption: [
-Imagine CT a coloanei lombare (Pacient 22). Secțiunea sagitală sau axială la nivel L3-L4 ar trebui să ilustreze liza difuză corticală și osteoscleroza subcondrală a platourilor vertebrale adiacente, precum și densificarea țesuturilor moi perivertebrale.
-],
-supplement: "Figura",
-kind: "AA",
+  image("Files/fig-case1-ct-spinal.jpg"), // Asigură-te că acesta este numele corect al fișierului imagine
+  caption: [
+    Imagini CT ale coloanei lombare la nivel L3-L4 (Pacient 22). De la stânga la dreapta: 
+    *(A) Secțiune sagitală* în fereastră de os, demonstrând eroziuni și neregularități ale platourilor vertebrale L3 și L4, precum și modificări de osteoscleroză. 
+    *(B) Secțiune coronală* în fereastră de os, confirmând afectarea platourilor vertebrale și posibila reducere a înălțimii discului intervertebral L3-L4. 
+    *(C) Secțiune axială* în fereastră parenchimatoasă, ce poate evidenția densificarea țesuturilor moi paravertebrale sau prezența unor colecții lichidiene.
+    *(D) Secțiune axială* în fereastră de os, unde se observă liza corticală și osteoscleroza subcondrală a platoului vertebral L4.
+    Aceste constatări CT au ridicat suspiciunea de spondilodiscită.
+  ],
+  supplement: "Figura",
+  kind: "AA",
 ) <fig-case1-ct-spinal>
-Pentru confirmarea diagnosticului, s-a efectuat un IRM lombar nativ și postcontrast i.v. Examenul IRM a confirmat prezența unui focar spondilodiscitic în oglindă la nivelul platourilor vertebrale L3-L4, evidențiind modificări edematoase intraspongioase extinse în L3-L4 și intradiscale, cu semnal caracteristic (hipersemnal T2/STIR în @fig-case1-irm-sag-t2fs, hiposemnal T1 în @fig-case1-irm-sag-t1fsce) și priză intensă, heterogenă de contrast la nivelul discului și al platourilor adiacente. S-a notat o minimă tasare vertebrală a platoului superior L4, eroziuni și neregularități subcondrale. Important, deși nu a existat un abces epidural semnificativ, s-a identificat o mică colecție lichidiană prevertebral stânga L3-L4 cu gadofilie periferică, localizată posterior de ligamentul longitudinal anterior în @fig-case1-irm-axial (grosime maximă 6mm, întinsă pe 23mm cranio-caudal). De asemenea, IRM-ul a vizualizat modificări inflamatorii difuze în musculatura paravertebrală (predominant dreapta L3-L5) și edem la nivelul traiectelor radiculare adiacente (intraforaminal L3-L4, intracanal L4 stânga, intraforaminal L3 bilateral), explicând simptomatologia radiculară. Examenul a detaliat și patologie degenerativă preexistentă (debord discal global L3 și L4 cu ștergerea spațiului epidural anterior și contact radicular, protruzie discală L5, osteofite anterioare L2-L5, deshidratări discale lombare), precum și alte constatări (chisturi intraforaminale T11/T12, con medular normal). IRM-ul a fost astfel crucial pentru a diferenția modificările infecțioase de cele degenerative și pentru a evalua extinderea inflamației și implicarea neurală.
+Pentru confirmarea diagnosticului și o evaluare detaliată, s-a efectuat un examen RMN al coloanei lombare, nativ și postcontrast i.v. Investigația a confirmat prezența unui focar de spondilodiscită la nivel L3-L4. În plan sagital median, așa cum este ilustrat în @fig-case1-irm-sag-median, s-a observat o reducere în înălțime a discului L3 cu semnal heterogen de tip infiltrativ-lichidian (hipersemnal T2, prize peteșiale de contrast). Platourile vertebrale adiacente discului prezentau contururi neregulate cu discontinuități milimetrice (semnal T1/T2 întrerupt, șters) și edem osos "în oglindă" (hipersemnal T2/STIR, hiposemnal T1, priză de contrast). De asemenea, s-a evidențiat semnal infiltrativ subligamentar anterior întins L3-L4, precum și îngroșare și priză de contrast a ligamentului longitudinal vertebral posterior în dreptul discului afectat.
+
 #figure(
-// Placeholder pentru imaginea IRM sagitală L3-L4 (secvență T2 cu supresia grăsimii sau STIR)
-image("Files/fig-case1-irm-sag-t2fs.jpg"), // Nume de fișier placeholder
+// Placeholder pentru imaginea IRM sagitală L3-L4 mediană (T2, STIR, T1, T1CE)
+image("Files/case1_irm_sag_median.jpg"), // Nume de fișier placeholder
 caption: [
-Imagine sagitală IRM a coloanei lombare (Pacient 22), secvență T2 cu supresia grăsimii sau STIR. Ar trebui să ilustreze hipersemnalul intens la nivelul discului L3-L4 și al măduvei osoase din platourile vertebrale adiacente (edem), sugestiv pentru proces infecțios. (Verificați pe imaginea IRM reală și ajustați descrierea).
+Secțiuni IRM sagitale la nivelul liniei mediane L3-L4 (Pacient 22): 
+    (A) Secvență ponderată T2:
+    (B) Secvență STIR:
+    (C) Secvență ponderată T1 (nativ)
+    (D) Secvență ponderată T1 postcontrast i.v.
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case1-irm-sag-t2fs>
+) <fig-case1-irm-sag-median>
+
+În plan parasagital stânga, așa cum este prezentat în @fig-case1-irm-sag-stang, pe lângă modificările descrise anterior, s-a evidențiat un flegmon prevertebral stânga cu hipersemnal STIR heterogen, priză de contrast și mici arii negadolinofile, sugestive pentru colecții lichidiene/abces.
+
 #figure(
-// Placeholder pentru imaginea IRM sagitală L3-L4 (secvență T1 postcontrast cu supresia grăsimii)
-image("Files/fig-case1-irm-sag-t1fsce.jpg"), // Nume de fișier placeholder
+// Placeholder pentru imaginea IRM sagitală L3-L4 parasagitală stângă (T2, STIR, T1, T1CE)
+image("Files/fig-case1-irm-sag-stang.jpg"), // Nume de fișier placeholder
 caption: [
-Imagine sagitală IRM a coloanei lombare (Pacient 22), secvență T1 postcontrast cu supresia grăsimii. Ar trebui să demonstreze priza intensă de contrast la nivelul discului L3-L4 și al platourilor vertebrale, precum și a țesuturilor moi paravertebrale și a micii colecții prevertebrale stânga.
+Secțiuni IRM sagitale la nivel parasagital stânga L3-L4 (Pacient 22): Imaginile sunt echivalente cu cele din @fig-case1-irm-sag-median. Se reconfirmă modificările discale și vertebrale, și se evidențiază suplimentar flegmonul prevertebral stânga cu hipersemnal STIR heterogen, priză de contrast și mici arii negadolinofile - aspect de colecție lichidiană.
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case1-irm-sag-t1fsce>
+) <fig-case1-irm-sag-stang>
+
+Secțiunile coronale STIR și axiale T2 și T1 postcontrast i.v. cu saturația grăsimii, în planul platoului vertebral superior L4 (ilustrate în @fig-case1-irm-cor-ax), au confirmat semnalul infiltrativ perivertebral cu priză de contrast. Secțiunea coronală STIR a reconfirmat pensarea discală, semnalul infiltrativ intradiscal și edemul osos "în oglindă". De asemenea, s-au identificat multiplii ganglioni lomboaortici, așa cum se observă în @fig-case1-irm-ganglioni, indicând un răspuns inflamator regional.
+
 #figure(
-// Placeholder pentru imaginea IRM axială L3-L4 (care arată compresia radiculară/edemul neural)
-image("Files/fig-case1-irm-axial.jpg"), // Nume de fișier placeholder
+// Placeholder pentru imaginea IRM coronală STIR + axială T2 și T1CE la nivel L4
+image("Files/fig-case1-irm-cor-ax.jpg"), // Nume de fișier placeholder
 caption: [
-Imagine axială IRM la nivel L3-L4 (Pacient 22). Ar trebui să arate edemul la nivelul rădăcinilor nervoase L4 (intracanal stânga) și L3 (intraforaminal bilateral), precum și o parte din colecția prevertebrala stânga.
+Secțiuni IRM la nivel L3-L4 (Pacient 22): (A) Coronal STIR (B) Axial T2 și (C) T1 postcontrast i.v. Fat-Sat: Se observă semnalul infiltrativ perivertebral cu priză de contrast (indicat prin cap de săgeată) și modificările descrise în plan sagital (săgeată): pensare discală, semnal infiltrativ intradiscal, contururi neregulate și edem osos în oglindă.
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case1-irm-axial>
+) <fig-case1-irm-cor-ax>
+
+#figure(
+// Placeholder pentru imaginea IRM care evidențiază ganglionii lomboaortici
+image("Files/fig-case1-irm-ganglioni.jpg"), // Nume de fișier placeholder
+caption: [
+Secțiuni IRM cu secvențe echivalente cu cele din @fig-case1-irm-cor-ax la nivel lombar (Pacient 22). Evidențiază prezența multiplilor ganglioni limfatici lomboaortici (săgeți)
+],
+supplement: "Figura",
+kind: "AA",
+) <fig-case1-irm-ganglioni>
+
+Examenul IRM a detaliat și patologie degenerativă preexistentă (debord discal global L3 și L4 cu ștergerea spațiului epidural anterior și contact radicular, protruzie discală L5, osteofite anterioare L2-L5, deshidratări discale lombare), precum și alte constatări (chisturi intraforaminale T11/T12, con medular normal). RMN-ul a fost astfel crucial pentru a diferenția modificările infecțioase de cele degenerative și pentru a evalua extinderea inflamației și implicarea neurală.
+
 *Management și Evoluție:*
 Pe baza tabloului clinic (simptomatologie radiculară, tulburări de mers, probe inflamatorii crescute) și, mai ales, a constatărilor imagistice (spondilodiscită confirmată la IRM, edem extins, implicare neurală, mică colecție prevertebrală), s-a inițiat tratamentul. Managementul a fost predominant medical, incluzând antibioterapie i.v. (schema inițială cu Meronem și Vancomicină, ajustată ulterior cu Biseptol și Ciprofloxacina conform recomandării serviciului de Boli Infecțioase) și antialgoterapie (Ketoprofen, Mydocalm, Zaldiar). S-a adăugat și tratament probiotic (Linex). Deși severitatea cazului și implicarea neurală ar fi putut ridica la un moment dat discuția unui gest chirurgical de decompresie, absența unei colecții epidurale compresive majore sau a unei instabilități vertebrale severe, vizibile imagistic, a susținut decizia de management medical intens. Pacienta a fost externată afebrilă, cu stare generală bună și simptomatologie clinică ușor ameliorată.
 Recomandări și Urmărire:
@@ -62,55 +90,88 @@ La externare, s-au oferit recomandări clare pentru continuarea managementului: 
 
 == Studiu de Caz Nr. 2: Pacientă cu Spondilodiscită Multifocală și Complicații Extinse, management chirurgical complex
 *Date pacient:*
-ID anonimizat: 38
-Vârstă: 70 ani
-Sex: F
-Data prezentării în spital: //01.03.2023
+- ID anonimizat: 38
+- Vârstă: 74 ani
+- Sex: F
+- Data prezentării în spital: //01.03.2023
 *Diagnostice:*
 Diagnostice de trimitere/intrare: Sepsis (cu punct de plecare suspect digestiv), Sindrom Icteric, Fibrilație atrială (FIA) permanentă, Hipertensiune arterială (HTA), Hernie hiatală, Anemie feriprivă, Insuficiență Cardiacă Congestivă (ICC), Diabet zaharat tip II (DZ II), Coxartroză, Gonoartroză, Insuficiență mitrală, Insuficiență aortică, Abcese spinale cervico-toracale, Mediastinită purulentă, Pleurezie dreaptă multiplă închistată, Abcese vertebrale T3-T5-T7-T8, Abcese epidurale spinale toracal și lombar.
 *Stare clinică și context:*
-Pacienta în vârstă de 70 de ani, cu multiple comorbidități cardiovasculare, metabolice și respiratorii, a prezentat un tablou clinic complex, inițial orientat către un sepsis cu punct de plecare digestiv, în contextul unor antecedente bogate. Simptomatologia relevantă pentru patologia spinală a inclus lombosciatalgie intensă și parestezii, completată ulterior de constatări imagistice ce au evidențiat extensia infecției la nivel vertebral și al țesuturilor adiacente. Starea severă a pacientei a necesitat management în serviciul de Terapie Intensivă pentru stabilizare inițială.
+Pacienta în vârstă de 74 de ani, cu multiple comorbidități cardiovasculare, metabolice și respiratorii, a prezentat un tablou clinic complex, inițial orientat către un sepsis cu punct de plecare digestiv, în contextul unor antecedente bogate. Simptomatologia relevantă pentru patologia spinală a inclus lombosciatalgie intensă și parestezii, completată ulterior de constatări imagistice ce au evidențiat extensia infecției la nivel vertebral și al țesuturilor adiacente. Starea severă a pacientei a necesitat management în serviciul de Terapie Intensivă pentru stabilizare inițială.
 *Investigații paraclinice (non-imagistice):*
 Pe lângă sindroamele clinice multiple (sepsis, sindrom icteric etc.), evaluările biologice au evidențiat inflamație sistemică severă (probe inflamatorii crescute, leucocitoză). Culturile intraoperatorii recoltate din abcesele spinale au confirmat agentul infecțios: _Staphylococcus aureus_.
 *Investigații imagistice:*
-Imagistica a jucat un rol central, nu doar în stabilirea diagnosticului de spondilodiscită, ci mai ales în cartografierea extinderii multifocale și a complicațiilor severe, ghidând astfel strategia chirurgicală complexă. Inițial s-a efectuat un IRM de coloană lombară, care a evidențiat modificări difuze de semnal ale măduvei osoase lombare (sugestive pentru inflamație/mielofibroză), dar mai ales multiple colecții extramedulare intracanalare (la nivel T10-T11, L3-L4-L5, L5-S1, L5), colecții extraarticulare paravertebrale (lângă apofiza transversă L4) și o colecție epidurală anterior în dreptul corpului vertebral L5. Acest prim IRM din @fig-case2-irm-lombar-t2fs și @fig-case2-irm-lombar-axial a subliniat amploarea leziunilor infecțioase cu formare de abcese pe multiple nivele.
+IImagistica a jucat un rol central, nu doar în stabilirea diagnosticului de spondilodiscită, ci mai ales în cartografierea extinderii multifocale și a complicațiilor severe, ghidând astfel strategia chirurgicală complexă. Evaluarea inițială prin RMN a coloanei lombare a relevat modificări difuze de semnal la nivelul măduvei osoase, heterogen, dominant hiposemnal T1/T2 – ridicând suspiciunea de inflamație. Mult mai semnificativ, s-au identificat multiple colecții extramedulare intracanalare. Figura @fig-case2-irm-lombar1 (secțiuni sagitale T2/T1 și axiale T2 la nivel L4-L5 respectiv L5-S1) ilustrează complexitatea leziunilor la acest nivel inferior, inclusiv o colecție lenticulară posterolateral dreapta la L5-S1.
+
 #figure(
-// Placeholder pentru imaginea IRM sagitală lombară (secvență T2 FS sau STIR)
-image("Files/fig-case2-irm-lombar-t2fs.jpg"), // Nume de fișier placeholder
+
+image("Files/fig-case2-irm-lombar1.jpg"),
 caption: [
-Imagine sagitală IRM a coloanei lombare (Pacient 38), secvență T2 cu supresia grăsimii sau STIR. Ar trebui să ilustreze hipersemnalul la nivelul discurilor și platourilor vertebrale afectate (L3-L4, L4-L5, L5-S1) și mai ales multiplele colecții lichidiene epidurale posterioare și paravertebrale.
+Secțiuni IRM ale coloanei lombare (Pacient 38): Sagital T2(A) T1 (B) și axial T2 (C) la nivel L4-L5 respectiv L5-S1 (D, E, F), evidențiind modificări degenerative și posibile colecții lichidiene (săgeți).
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case2-irm-lombar-t2fs>
+) <fig-case2-irm-lombar1>
+
+Extinderea investigației la joncțiunea toraco-lombară a fost crucială. Așa cum se observă în @fig-case2-irm-jonctiune-tl (secțiuni sagitale T2 și T1), pe lângă semnalul heterogen al măduvei osoase, s-a identificat o importantă colecție epidurală posterioară la nivel T10-T11 (indicată prin săgeată), care a impus continuarea investigației la nivel toracal.
+
 #figure(
-// Placeholder pentru imaginea IRM axială lombară (la un nivel cu abces epidural semnificativ, ex: T10-T11 sau L3-L4-L5)
-image("Files/fig-case2-irm-lombar-axial.jpg"), // Nume de fișier placeholder
+// Placeholder pentru Figura 2: IRM Joncțiune Toraco-Lombară Sagital T2/T1
+image("Files/fig-case2-irm-jonctiune-tl.jpg"), // Nume de fișier placeholder
 caption: [
-Imagine axială IRM a coloanei lombare (Pacient 38) la nivelul T10-T11 sau L3-L4. Ar trebui să evidențieze colecțiile epidurale posterioare și/sau extraarticulare paravertebrale, precum și efectul de masă asupra sacului dural sau măduvei spinării.
+Secțiuni IRM sagitale T2 și T1 ale coloanei lombare și joncțiunii toraco-lombare (Pacient 38): Se observă semnalul heterogen al măduvei osoase și colecția epidurală posterioară la nivel T10-T11 (săgeată).
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case2-irm-lombar-axial>
-Dată fiind gravitatea și extensia leziunilor, s-au efectuat investigații suplimentare. IRM-ul de coloană cervico-toracală din @fig-case2-irm-cervicotoracal-t2fs și @fig-case2-irm-toracal-axial (ulterior comparat cu cel lombar) a confirmat afectarea și la acest nivel, descriind colecții lichidiene cloazonate multiloculate extinse în mediastinul posterior și superior prevertebral și paravertebral drept (la nivel T1-T4), semnal lichidian discal și edem intraspongios vertebral adiacent (T2, T3, T4), o altă colecție mediastinală (T6-T8), precum și progresie dimensională a unei colecții epidurale intracanalare toracale (T10-T11, 50mm cranio-caudal, grosime 13mm), care amprenta și deplasa cordonul medular toracal inferior. S-a identificat și o colecție similară epidural anterior la T10-T11. CT-urile de torace și abdomino-pelvin au completat imaginea extinderii (revarsat pleural bilateral, hernie gastrică transhiatală, lipom subcutanat toracal), confirmând multiple colecții mediastinale și pleural. Deși au existat și constatări degenerative (protruzii disco-osteofitice cervicale/toracale, degenerări Modic II), focusul a fost pe procesele infecțioase extinse.
+) <fig-case2-irm-jonctiune-tl>
+
+RMN-ul de coloană toracală a confirmat amploarea procesului infecțios. În @fig-case2-irm-toracal (secțiuni sagitale T2/T1 și axiale T2 la nivel T10-T11), capul de săgeată indică colecția epidurală posterioară la acest nivel, care amprenta și deplasa cordonul medular toracal inferior. Săgețile evidențiază și semnalul infiltrativ paravertebral, confirmând extinderea infecției în țesuturile moi adiacente.
+
 #figure(
-// Placeholder pentru imaginea IRM sagitală cervico-toracală (secvență T2 FS sau STIR) care arată colecțiile mediastinale și edemul vertebral
-image("Files/fig-case2-irm-cervicotoracal-t2fs.jpg"), // Nume de fișier placeholder
+
+image("Files/fig-case2-irm-toracal.jpg"), 
 caption: [
-Imagine sagitală IRM a coloanei cervico-toracale (Pacient 38), secvență T2 cu supresia grăsimii sau STIR. Ar trebui să ilustreze colecțiile lichidiene extinse în mediastinul posterior pre/paravertebral (T1-T4, T6-T8), edemul la nivelul corpurilor vertebrale (T3, T4) și marea colecție epidurală la T10-T11 cu compresie medulară.
+Secțiuni IRM ale coloanei toracale (Pacient 38): Sagital T2 (A) T1 (B) și axial T2 (C) la nivel T10-T11. Capul de săgeată indică colecția epidurală posterioară cu efect compresiv asupra măduvei. Săgețile indică semnalul infiltrativ paravertebral.
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case2-irm-cervicotoracal-t2fs>
+) <fig-case2-irm-toracal>
+
+Mai mult, secvențele sagitale T2 dinspre dreapta spre linia mediană (prezentate în @fig-case2-irm-sag-mediastin) au pus în evidență colecții prevertebrale extinse în mediastinul posterior, indicând o posibilă mediastinită purulentă.
+
 #figure(
-// Placeholder pentru imaginea IRM axială toracală (la nivelul colecției mediastinale, ex: T1-T4)
-image("Files/fig-case2-irm-toracal-axial.jpg"), // Nume de fișier placeholder
+
+image("Files/fig-case2-irm-sag-mediastin.jpg"), 
 caption: [
-Imagine axială IRM a coloanei toracale (Pacient 38) la nivel T1-T4. Ar trebui să evidențieze colecțiile multiloculate extinse în mediastinul posterior/paravertebral.
+Secvență IRM sagitală T2 a coloanei toracale, dinspre dreapta (D) spre linia mediană (M) (Pacient 38): Evidențiază colecțiile prevertebrale extinse în mediastinul posterior.
 ],
 supplement: "Figura",
 kind: "AA",
-) <fig-case2-irm-toracal-axial>
+) <fig-case2-irm-sag-mediastin>
+
+O evaluare imagistică de ansamblu a regiunii cervico-toracale, prezentată în @fig-case2-irm-cervicotoracal-ansamblu (secțiuni sagitale T2, T1 nativ și T1 postcontrast i.v.), a demonstrat extensia procesului spondilodiscitic la acest nivel superior. S-a evidențiat implicarea discurilor intervertebrale (T2, T3, T4) cu semnal lichidian în treimea lor anterioară, asociată cu edem intraspongios semnificativ la nivelul corpurilor vertebrale T3 și T4 (hipersemnal T2/STIR, hiposemnal T1) și priză de contrast intensă, confirmând caracterul inflamator/infecțios activ.
+
+#figure(
+image("Files/fig-case2-irm-cervicotoracal-ansamblu.jpg"),
+caption: [
+Secțiuni IRM sagitale la nivel cervico-toracal (Pacient 38): T2 (A), T1 nativ (B) și T1 postcontrast i.v. (C). //Se observă semnalul lichidian în 1/3 anterioară a discurilor (T2, T3, T4), edemul intraspongios în hipersemnal T2 și hiposemnal T1 la nivelul corpurilor vertebrale T3 și T4, și priza de contrast intensă postadministrare la aceste nivele. 
+],
+supplement: "Figura",
+kind: "AA",
+) <fig-case2-irm-cervicotoracal-ansamblu>
+
+Detalii suplimentare și confirmarea extinderii colecțiilor sunt furnizate de secvențele din @fig-case2-irm-axial-stir-toracal. Secvența axială T1 postcontrast cu saturația grăsimii la nivel T1 și secvența sagitală STIR toracală confirmă prezența colecțiilor prevertebrale extinse ce ocupă și mediastinul posterior, localizate la nivel C7-T2 și T4-T7. Aceste colecții prezintă hipersemnal STIR și priză de contrast periferică, aspecte caracteristice abceselor. Se observă, de asemenea, edem osos important la nivelul corpurilor vertebrale T1 și T2, completând tabloul spondilodiscitei multifocale cu afectare tisulară extinsă.
+
+#figure(
+image("Files/fig-case2-irm-axial-stir-toracal.jpg"),
+caption: [
+Secțiuni IRM ale coloanei cervico-toracale (Pacient 38), oferind detalii asupra colecțiilor și edemului: Axial T1 postcontrast i.v. cu saturația grăsimii la nivel T1 (A), sagital STIR toracal (B). Se evidențiază colecțiile prevertebrale extinse în mediastinul posterior (C7-T2 și T4-T7) cu hipersemnal STIR și priză de contrast periferică, precum și edemul osos la nivelul corpurilor vertebrale T1, T2.
+],
+supplement: "Figura",
+kind: "AA",)<fig-case2-irm-axial-stir-toracal>
+
+CT-urile de torace și abdomino-pelvin au completat tabloul, confirmând revarsatele pleurale și colecțiile mediastinale, dar fără a identifica modificări osoase cu viză oncologică. Astfel, imagistica combinată, în special RMN-ul multiregional, a fost esențială pentru a demonstra natura infecțioasă multifocală a bolii, cu formare de abcese extinse vertebrale, epidurale, paravertebrale și mediastinale, și cu compresie medulară semnificativă, fundamentând decizia pentru un abord chirurgical complex și urgent.
+
 *Management și Evoluție:*
 Tabloul clinic sever, infecția sistemică (sepsis, agent patogen identificat) și mai ales evidențele imagistice de abcese extinse multi-segmentare (cervico-toracal, toracal, lombar) cu efect compresiv asupra măduvei spinării (la T10-T11) au impus un management chirurgical complex și multidisciplinar. Pacienta a fost supusă intervențiilor chirurgicale de urgență, care au inclus drenajul abceselor epidurale spinale toracal și lombar, decompresie spinală, decorticare pleuropulmonară și drenaj mediastinal transtoracic drept pentru mediastinita purulentă asociată. Pe lângă intervențiile chirurgicale, s-a administrat antibioterapie țintită conform antibiogramei (deși în rezumatul specific nu sunt detaliate antibioticele post-identificare Staph. aureus, protocoalele standard impun acest lucru). Evoluția postoperatorie a fost calificată drept favorabilă spre vindecare chirurgicală toracică, indicând succesul parțial al intervențiilor în controlul procesului infecțios la acest nivel.
 *Plan de Continuare:*
